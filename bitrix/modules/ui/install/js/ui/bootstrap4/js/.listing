@@ -1,0 +1,12 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp        212345 Jul  4 07:30 bootstrap.bundle.js
+-rw-r--r--   1 ftp      ftp        358832 Jul  4 07:30 bootstrap.bundle.js.map
+-rw-r--r--   1 ftp      ftp        101393 Jul  4 07:30 bootstrap.bundle.map.js
+-rw-r--r--   1 ftp      ftp         76304 Jul  4 07:30 bootstrap.bundle.min.js
+-rw-r--r--   1 ftp      ftp        294126 Jul  4 07:30 bootstrap.bundle.min.js.map
+-rw-r--r--   1 ftp      ftp        123765 Jul  4 07:30 bootstrap.js
+-rw-r--r--   1 ftp      ftp        211967 Jul  4 07:30 bootstrap.js.map
+-rw-r--r--   1 ftp      ftp         68554 Jul  4 07:30 bootstrap.map.js
+-rw-r--r--   1 ftp      ftp         54924 Jul  4 07:30 bootstrap.min.js
+-rw-r--r--   1 ftp      ftp        176087 Jul  4 07:30 bootstrap.min.js.map

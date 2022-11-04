@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           433 Jul  4 07:30 cleanup.php
+-rw-r--r--   1 ftp      ftp         45870 Jul  4 07:30 example.sql
+-rw-r--r--   1 ftp      ftp          6513 Jul  4 07:30 install.sql
+-rw-r--r--   1 ftp      ftp           677 Jul  4 07:30 uninstall.sql

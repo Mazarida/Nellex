@@ -1,0 +1,5 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           350 Jul  4 07:30 mysql.php
+-rw-r--r--   1 ftp      ftp           973 Jul  4 07:30 sphinx.php
+-rw-r--r--   1 ftp      ftp            83 Jul  4 07:30 tags.php

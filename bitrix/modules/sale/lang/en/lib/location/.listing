@@ -1,0 +1,17 @@
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  18 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 admin
+-rw-r--r--   1 ftp      ftp           730 Jul  4 07:30 connector.php
+-rw-r--r--   1 ftp      ftp           594 Jul  4 07:30 defaultsite.php
+-rw-r--r--   1 ftp      ftp           447 Jul  4 07:30 external.php
+-rw-r--r--   1 ftp      ftp            79 Jul  4 07:30 externalservice.php
+-rw-r--r--   1 ftp      ftp           128 Jul  4 07:30 group.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 import
+-rw-r--r--   1 ftp      ftp           799 Jul  4 07:30 location.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 migration
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 name
+-rw-r--r--   1 ftp      ftp           106 Jul  4 07:30 sitelocation.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 tree
+-rw-r--r--   1 ftp      ftp           327 Jul  4 07:30 tree.php
+-rw-r--r--   1 ftp      ftp           386 Jul  4 07:30 type.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 util

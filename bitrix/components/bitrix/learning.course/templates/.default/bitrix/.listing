@@ -1,0 +1,10 @@
+drwxr-xr-x  10 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 learning.chapter.detail
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 learning.course.contents
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 learning.course.tree
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 learning.lesson.detail
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 learning.student.gradebook
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 learning.test
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 learning.test.list
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 learning.test.self

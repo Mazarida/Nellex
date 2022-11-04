@@ -1,0 +1,12 @@
+drwxr-xr-x  12 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 catalog.filter
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 forum.topic.reviews
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 iblock.vote
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 news.detail
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 news.index
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 news.list
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 rss.out
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 search.form
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 search.page
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 search.tags.cloud

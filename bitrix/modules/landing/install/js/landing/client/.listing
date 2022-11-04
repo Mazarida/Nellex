@@ -1,0 +1,14 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  17 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          3056 Jul  4 07:30 glavred.js
+-rw-r--r--   1 ftp      ftp          2074 Jul  4 07:30 glavred.map.js
+-rw-r--r--   1 ftp      ftp          1563 Jul  4 07:30 glavred.min.js
+-rw-r--r--   1 ftp      ftp          1794 Jul  4 07:30 google_fonts.js
+-rw-r--r--   1 ftp      ftp          1265 Jul  4 07:30 google_fonts.map.js
+-rw-r--r--   1 ftp      ftp          1043 Jul  4 07:30 google_fonts.min.js
+-rw-r--r--   1 ftp      ftp          2070 Jul  4 07:30 google_images.js
+-rw-r--r--   1 ftp      ftp          1473 Jul  4 07:30 google_images.map.js
+-rw-r--r--   1 ftp      ftp           998 Jul  4 07:30 google_images.min.js
+-rw-r--r--   1 ftp      ftp          3047 Jul  4 07:30 unsplash.js
+-rw-r--r--   1 ftp      ftp          1948 Jul  4 07:30 unsplash.map.js
+-rw-r--r--   1 ftp      ftp          1537 Jul  4 07:30 unsplash.min.js

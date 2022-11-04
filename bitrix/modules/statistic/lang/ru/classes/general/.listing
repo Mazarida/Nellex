@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           318 Jul  4 07:30 city.php
+-rw-r--r--   1 ftp      ftp           316 Jul  4 07:30 stateventtype.php
+-rw-r--r--   1 ftp      ftp          1484 Jul  4 07:30 statistic.php
+-rw-r--r--   1 ftp      ftp           397 Jul  4 07:30 stoplist.php

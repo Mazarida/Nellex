@@ -1,0 +1,17 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           499 Jul  4 07:29 storeassist_1c_catalog_fill.php
+-rw-r--r--   1 ftp      ftp          1417 Jul  4 07:29 storeassist_1c_exchange_realtime.php
+-rw-r--r--   1 ftp      ftp          1437 Jul  4 07:29 storeassist_1c_small_firm.php
+-rw-r--r--   1 ftp      ftp          1296 Jul  4 07:29 storeassist_1c_unloading.php
+-rw-r--r--   1 ftp      ftp          2220 Jul  4 07:29 storeassist_adaptive.php
+-rw-r--r--   1 ftp      ftp            71 Jul  4 07:29 storeassist_context_adv.php
+-rw-r--r--   1 ftp      ftp          1060 Jul  4 07:29 storeassist_crm_calls.php
+-rw-r--r--   1 ftp      ftp          1448 Jul  4 07:29 storeassist_crm_client.php
+-rw-r--r--   1 ftp      ftp           120 Jul  4 07:29 storeassist_marketing.php
+-rw-r--r--   1 ftp      ftp          1024 Jul  4 07:29 storeassist_new_items.php
+-rw-r--r--   1 ftp      ftp         10906 Jul  4 07:29 storeassist.php
+-rw-r--r--   1 ftp      ftp            61 Jul  4 07:29 storeassist_print.php
+-rw-r--r--   1 ftp      ftp          1415 Jul  4 07:29 storeassist_seo_settings.php
+-rw-r--r--   1 ftp      ftp           489 Jul  4 07:29 storeassist_social.php
+-rw-r--r--   1 ftp      ftp          1289 Jul  4 07:29 storeassist_virtual.php

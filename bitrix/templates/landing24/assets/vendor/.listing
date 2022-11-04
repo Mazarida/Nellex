@@ -1,0 +1,17 @@
+drwxr-xr-x  11 ftp      ftp          4096 Jul  4 07:31 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:31 ..
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:31 circles
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:31 gmaps
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:31 icon-awesome
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:31 icon-etlinefont
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:31 icon-hs
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:31 icon-line
+drwxr-xr-x  20 ftp      ftp          4096 Jul  4 07:31 icon-line-pro
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:31 jquery.countdown
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:31 slick-carousel
+-rw-r--r--   1 ftp      ftp        239054 Jul  4 07:31 vendors_base.css
+-rw-r--r--   1 ftp      ftp        707660 Jul  4 07:31 vendors_base.js
+-rw-r--r--   1 ftp      ftp        700540 Jul  4 07:31 vendors_base.js.orig
+-rw-r--r--   1 ftp      ftp        361223 Jul  4 07:31 vendors_base.map.js
+-rw-r--r--   1 ftp      ftp        193074 Jul  4 07:31 vendors_base.min.css
+-rw-r--r--   1 ftp      ftp        266649 Jul  4 07:31 vendors_base.min.js

@@ -1,0 +1,7 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  27 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp         12514 Jul  4 07:30 component.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp           732 Jul  4 07:30 popup.php
+-rw-r--r--   1 ftp      ftp          1114 Jul  4 07:30 slider.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 templates

@@ -1,0 +1,13 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x  27 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           390 Jul  4 07:29 access.gif
+-rw-r--r--   1 ftp      ftp           408 Jul  4 07:29 copy.gif
+-rw-r--r--   1 ftp      ftp           422 Jul  4 07:29 delete.gif
+-rw-r--r--   1 ftp      ftp           631 Jul  4 07:29 edit.gif
+-rw-r--r--   1 ftp      ftp           614 Jul  4 07:29 favorite.gif
+-rw-r--r--   1 ftp      ftp           914 Jul  4 07:29 hint.gif
+-rw-r--r--   1 ftp      ftp           574 Jul  4 07:29 loading.gif
+-rw-r--r--   1 ftp      ftp           564 Jul  4 07:29 pack.gif
+-rw-r--r--   1 ftp      ftp           402 Jul  4 07:29 rename.gif
+-rw-r--r--   1 ftp      ftp           610 Jul  4 07:29 unpack.gif
+-rw-r--r--   1 ftp      ftp           636 Jul  4 07:29 view.gif

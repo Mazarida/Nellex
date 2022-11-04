@@ -1,0 +1,8 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          4358 Jul  4 07:30 files.php
+-rw-r--r--   1 ftp      ftp          2857 Jul  4 07:30 group.php
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp          1197 Jul  4 07:30 settings.php
+-rw-r--r--   1 ftp      ftp          2285 Jul  4 07:30 template.php
+-rw-r--r--   1 ftp      ftp           863 Jul  4 07:30 theme.php

@@ -1,0 +1,8 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          2372 Jul  4 07:29 base.php
+-rw-r--r--   1 ftp      ftp          1172 Jul  4 07:29 categorymanager.php
+-rw-r--r--   1 ftp      ftp          1200 Jul  4 07:29 defaultboardmanager.php
+-rw-r--r--   1 ftp      ftp          2354 Jul  4 07:29 reportmanager.php
+-rw-r--r--   1 ftp      ftp          1035 Jul  4 07:29 viewmanager.php
+-rw-r--r--   1 ftp      ftp          1595 Jul  4 07:29 widgetmanager.php

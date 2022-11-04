@@ -1,0 +1,12 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          1060 Jul  4 07:30 buy.php
+-rw-r--r--   1 ftp      ftp          1600 Jul  4 07:30 category.php
+-rw-r--r--   1 ftp      ftp          1458 Jul  4 07:30 detail.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 images
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp          1153 Jul  4 07:30 search.php
+-rw-r--r--   1 ftp      ftp         18579 Jul  4 07:30 style.css
+-rw-r--r--   1 ftp      ftp         15867 Jul  4 07:30 style.min.css
+-rw-r--r--   1 ftp      ftp          1680 Jul  4 07:30 top.php
+-rw-r--r--   1 ftp      ftp          1024 Jul  4 07:30 updates.php

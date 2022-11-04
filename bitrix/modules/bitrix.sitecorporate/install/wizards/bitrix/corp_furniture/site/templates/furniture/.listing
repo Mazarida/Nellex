@@ -1,0 +1,13 @@
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          2388 Jul  4 07:30 common.css
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 components
+-rw-r--r--   1 ftp      ftp           123 Jul  4 07:30 description.php
+-rw-r--r--   1 ftp      ftp          1150 Jul  4 07:30 favicon.ico
+-rw-r--r--   1 ftp      ftp           801 Jul  4 07:30 footer.php
+-rw-r--r--   1 ftp      ftp          3787 Jul  4 07:30 header.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 images
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp           578 Jul  4 07:30 styles.css
+-rw-r--r--   1 ftp      ftp          9719 Jul  4 07:30 template_styles.css
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:30 themes

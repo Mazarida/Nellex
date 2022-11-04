@@ -1,0 +1,5 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  10 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           334 Jul  4 07:30 lists_bizproc_activity_settings.php
+-rw-r--r--   1 ftp      ftp           194 Jul  4 07:30 lists_bizproc_selector.php
+-rw-r--r--   1 ftp      ftp           325 Jul  4 07:30 lists_bizproc_wf_settings.php

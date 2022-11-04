@@ -1,0 +1,10 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   7 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 en
+-rw-r--r--   1 ftp      ftp         13131 Jul  4 07:30 language.php
+-rw-r--r--   1 ftp      ftp         10128 Jul  4 07:30 mysql.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 ru
+-rw-r--r--   1 ftp      ftp         30310 Jul  4 07:30 sphinx.php
+-rw-r--r--   1 ftp      ftp          6653 Jul  4 07:30 stemming.php
+-rw-r--r--   1 ftp      ftp          4922 Jul  4 07:30 stemtable.php
+-rw-r--r--   1 ftp      ftp          1724 Jul  4 07:30 tags.php

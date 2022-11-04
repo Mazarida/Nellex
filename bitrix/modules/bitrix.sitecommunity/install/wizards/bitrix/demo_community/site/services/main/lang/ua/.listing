@@ -1,0 +1,10 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp            61 Jul  4 07:29 bitrix.php
+-rw-r--r--   1 ftp      ftp          1223 Jul  4 07:29 group.php
+-rw-r--r--   1 ftp      ftp            60 Jul  4 07:29 options.php
+-rw-r--r--   1 ftp      ftp           191 Jul  4 07:29 property_names.php
+-rw-r--r--   1 ftp      ftp           177 Jul  4 07:29 rating.php
+-rw-r--r--   1 ftp      ftp           274 Jul  4 07:29 settings.php
+-rw-r--r--   1 ftp      ftp            71 Jul  4 07:29 site.php
+-rw-r--r--   1 ftp      ftp           171 Jul  4 07:29 template.php

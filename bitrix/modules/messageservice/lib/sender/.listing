@@ -1,0 +1,8 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          5685 Jul  4 07:29 baseconfigurable.php
+-rw-r--r--   1 ftp      ftp          1436 Jul  4 07:29 base.php
+-rw-r--r--   1 ftp      ftp          3752 Jul  4 07:29 limitation.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 result
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 sms
+-rw-r--r--   1 ftp      ftp          4250 Jul  4 07:29 smsmanager.php

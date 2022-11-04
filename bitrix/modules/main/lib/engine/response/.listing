@@ -1,0 +1,9 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          2080 Jul  4 07:29 ajaxjson.php
+-rw-r--r--   1 ftp      ftp           865 Jul  4 07:29 bfile.php
+-rw-r--r--   1 ftp      ftp          2351 Jul  4 07:29 converter.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 datatype
+-rw-r--r--   1 ftp      ftp          2248 Jul  4 07:29 file.php
+-rw-r--r--   1 ftp      ftp          2317 Jul  4 07:29 json.php
+-rw-r--r--   1 ftp      ftp          2333 Jul  4 07:29 resizedimage.php

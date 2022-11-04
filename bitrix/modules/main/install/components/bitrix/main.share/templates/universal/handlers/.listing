@@ -1,0 +1,8 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           543 Jul  4 07:30 facebook.php
+-rw-r--r--   1 ftp      ftp           546 Jul  4 07:30 gplus.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp           624 Jul  4 07:30 pinterest.php
+-rw-r--r--   1 ftp      ftp          2016 Jul  4 07:30 twitter.php
+-rw-r--r--   1 ftp      ftp           521 Jul  4 07:30 vk.php

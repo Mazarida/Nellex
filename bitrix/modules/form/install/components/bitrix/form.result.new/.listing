@@ -1,0 +1,10 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp         30857 Jul  4 07:30 component.php
+-rw-r--r--   1 ftp      ftp           477 Jul  4 07:30 .description.php
+-rw-r--r--   1 ftp      ftp           163 Jul  4 07:30 error.css
+-rw-r--r--   1 ftp      ftp           127 Jul  4 07:30 icons.css
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 images
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp          2318 Jul  4 07:30 .parameters.php
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 templates

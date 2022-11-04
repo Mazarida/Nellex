@@ -1,0 +1,9 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  51 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           543 Jul  4 07:30 .description.php
+-rw-r--r--   1 ftp      ftp          2309 Jul  4 07:30 foreachactivity.js
+-rw-r--r--   1 ftp      ftp          2090 Jul  4 07:30 foreachactivity.map.js
+-rw-r--r--   1 ftp      ftp          1748 Jul  4 07:30 foreachactivity.min.js
+-rw-r--r--   1 ftp      ftp          4414 Jul  4 07:30 foreachactivity.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp           526 Jul  4 07:30 properties_dialog.php

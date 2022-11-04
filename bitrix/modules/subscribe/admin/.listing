@@ -1,0 +1,14 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          1261 Jul  4 07:29 menu.php
+-rw-r--r--   1 ftp      ftp         20967 Jul  4 07:29 posting_admin.php
+-rw-r--r--   1 ftp      ftp           868 Jul  4 07:29 posting_attachment.php
+-rw-r--r--   1 ftp      ftp          4110 Jul  4 07:29 posting_bcc.php
+-rw-r--r--   1 ftp      ftp         22499 Jul  4 07:29 posting_edit.php
+-rw-r--r--   1 ftp      ftp          7042 Jul  4 07:29 posting_search.php
+-rw-r--r--   1 ftp      ftp          9660 Jul  4 07:29 rubric_admin.php
+-rw-r--r--   1 ftp      ftp          9417 Jul  4 07:29 rubric_edit.php
+-rw-r--r--   1 ftp      ftp         12250 Jul  4 07:29 subscr_admin.php
+-rw-r--r--   1 ftp      ftp          7861 Jul  4 07:29 subscr_edit.php
+-rw-r--r--   1 ftp      ftp          8577 Jul  4 07:29 subscr_import.php
+-rw-r--r--   1 ftp      ftp         10809 Jul  4 07:29 template_test.php

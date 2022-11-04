@@ -1,0 +1,7 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          2066 Jul  4 07:30 edit.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp           740 Jul  4 07:30 list.php
+-rw-r--r--   1 ftp      ftp           988 Jul  4 07:30 recipient.php
+-rw-r--r--   1 ftp      ftp          1788 Jul  4 07:30 time.php

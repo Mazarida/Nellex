@@ -1,0 +1,11 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 catalog_files
+-rw-r--r--   1 ftp      ftp          2333 Jul  4 07:29 catalog_prices_bl.xml
+-rw-r--r--   1 ftp      ftp          2332 Jul  4 07:29 catalog_prices_ua.xml
+-rw-r--r--   1 ftp      ftp          2738 Jul  4 07:29 catalog_prices.xml
+-rw-r--r--   1 ftp      ftp        285106 Jul  4 07:29 catalog.xml
+-rw-r--r--   1 ftp      ftp          5292 Jul  4 07:29 idea.xml
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 news_files
+-rw-r--r--   1 ftp      ftp         15008 Jul  4 07:29 news.xml
+-rw-r--r--   1 ftp      ftp         20075 Jul  4 07:29 references.xml

@@ -1,0 +1,17 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          1361 Jul  4 07:29 colorfield.js
+-rw-r--r--   1 ftp      ftp          1037 Jul  4 07:29 colorfield.map.js
+-rw-r--r--   1 ftp      ftp           913 Jul  4 07:29 colorfield.min.js
+-rw-r--r--   1 ftp      ftp          2382 Jul  4 07:29 previewblock.js
+-rw-r--r--   1 ftp      ftp          1842 Jul  4 07:29 previewblock.map.js
+-rw-r--r--   1 ftp      ftp          1756 Jul  4 07:29 previewblock.min.js
+-rw-r--r--   1 ftp      ftp          5361 Jul  4 07:29 reporthandlerselect.js
+-rw-r--r--   1 ftp      ftp          3287 Jul  4 07:29 reporthandlerselect.map.js
+-rw-r--r--   1 ftp      ftp          2992 Jul  4 07:29 reporthandlerselect.min.js
+-rw-r--r--   1 ftp      ftp          1076 Jul  4 07:29 reporttitle.js
+-rw-r--r--   1 ftp      ftp           833 Jul  4 07:29 reporttitle.map.js
+-rw-r--r--   1 ftp      ftp           773 Jul  4 07:29 reporttitle.min.js
+-rw-r--r--   1 ftp      ftp          1844 Jul  4 07:29 whatwillcalculate.js
+-rw-r--r--   1 ftp      ftp          1506 Jul  4 07:29 whatwillcalculate.map.js
+-rw-r--r--   1 ftp      ftp          1459 Jul  4 07:29 whatwillcalculate.min.js

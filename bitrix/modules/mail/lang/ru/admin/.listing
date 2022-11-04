@@ -1,0 +1,14 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           153 Jul  4 07:29 mail_attachment_view.php
+-rw-r--r--   1 ftp      ftp           716 Jul  4 07:29 mail_check_new_messages.php
+-rw-r--r--   1 ftp      ftp          4017 Jul  4 07:29 mail_filter_admin.php
+-rw-r--r--   1 ftp      ftp          3899 Jul  4 07:29 mail_filter_edit.php
+-rw-r--r--   1 ftp      ftp           750 Jul  4 07:29 mail_log.php
+-rw-r--r--   1 ftp      ftp          2808 Jul  4 07:29 mail_mailbox_admin.php
+-rw-r--r--   1 ftp      ftp          5716 Jul  4 07:29 mail_mailbox_edit.php
+-rw-r--r--   1 ftp      ftp          1189 Jul  4 07:29 mail_mailservice_admin.php
+-rw-r--r--   1 ftp      ftp          1910 Jul  4 07:29 mail_mailservice_edit.php
+-rw-r--r--   1 ftp      ftp          4420 Jul  4 07:29 mail_message_admin.php
+-rw-r--r--   1 ftp      ftp          3036 Jul  4 07:29 mail_message_view.php
+-rw-r--r--   1 ftp      ftp           896 Jul  4 07:29 menu.php

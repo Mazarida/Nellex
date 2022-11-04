@@ -1,0 +1,16 @@
+drwxr-xr-x  10 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 activities
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 admin
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 components
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 db
+-rw-r--r--   1 ftp      ftp           914 Jul  4 07:29 events.php
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 images
+-rw-r--r--   1 ftp      ftp         17996 Jul  4 07:29 index.php
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 js
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 services
+-rw-r--r--   1 ftp      ftp           875 Jul  4 07:29 step1.php
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 tools
+-rw-r--r--   1 ftp      ftp           666 Jul  4 07:29 unstep1.php
+-rw-r--r--   1 ftp      ftp           495 Jul  4 07:29 unstep2.php
+-rw-r--r--   1 ftp      ftp            99 Jul  4 07:29 version.php

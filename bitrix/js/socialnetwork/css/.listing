@@ -1,0 +1,7 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          5256 Jul  4 07:29 content_view.css
+-rw-r--r--   1 ftp      ftp          4811 Jul  4 07:29 content_view.min.css
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 images
+-rw-r--r--   1 ftp      ftp         11215 Jul  4 07:29 video_recorder.css
+-rw-r--r--   1 ftp      ftp          9438 Jul  4 07:29 video_recorder.min.css

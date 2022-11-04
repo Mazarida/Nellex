@@ -1,0 +1,13 @@
+drwxr-xr-x   9 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  13 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp         39541 Jul  4 07:30 class.php
+-rw-r--r--   1 ftp      ftp           385 Jul  4 07:30 .description.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 images
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 js
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 mediaplayer
+-rw-r--r--   1 ftp      ftp         25533 Jul  4 07:30 .parameters.php
+-rw-r--r--   1 ftp      ftp         12758 Jul  4 07:30 player_playlist_edit.php
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 templates
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 videojs
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 wmvplayer

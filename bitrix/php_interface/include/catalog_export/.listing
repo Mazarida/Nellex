@@ -1,0 +1,16 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          3517 Jul  4 07:29 cron_frame.php
+-rw-r--r--   1 ftp      ftp           125 Jul  4 07:29 csv_new_run.php
+-rw-r--r--   1 ftp      ftp            92 Jul  4 07:29 csv_new_setup.php
+-rw-r--r--   1 ftp      ftp           112 Jul  4 07:29 csv_run.php
+-rw-r--r--   1 ftp      ftp            86 Jul  4 07:29 csv_setup.php
+-rw-r--r--   1 ftp      ftp           113 Jul  4 07:29 froogle_run.php
+-rw-r--r--   1 ftp      ftp            90 Jul  4 07:29 froogle_setup.php
+-rw-r--r--   1 ftp      ftp            89 Jul  4 07:29 froogle_util.php
+-rw-r--r--   1 ftp      ftp            90 Jul  4 07:29 yandex_detail.php
+-rw-r--r--   1 ftp      ftp           111 Jul  4 07:29 yandex_run.php
+-rw-r--r--   1 ftp      ftp            89 Jul  4 07:29 yandex_setup.php
+-rw-r--r--   1 ftp      ftp           127 Jul  4 07:29 yandex_simple_run.php
+-rw-r--r--   1 ftp      ftp            96 Jul  4 07:29 yandex_simple_setup.php
+-rw-r--r--   1 ftp      ftp            88 Jul  4 07:29 yandex_util.php

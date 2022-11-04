@@ -1,0 +1,7 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  20 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          5696 Jul  4 07:30 base.php
+-rw-r--r--   1 ftp      ftp         24158 Jul  4 07:30 manager.php
+-rw-r--r--   1 ftp      ftp          8479 Jul  4 07:30 settings.php
+-rw-r--r--   1 ftp      ftp           620 Jul  4 07:30 triggerconnectorclosed.php
+-rw-r--r--   1 ftp      ftp          3335 Jul  4 07:30 triggerconnector.php

@@ -1,0 +1,10 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           104 Jul  4 07:29 bitrixcloud_backup_job.php
+-rw-r--r--   1 ftp      ftp           100 Jul  4 07:29 bitrixcloud_backup.php
+-rw-r--r--   1 ftp      ftp            97 Jul  4 07:29 bitrixcloud_cdn.php
+-rw-r--r--   1 ftp      ftp           110 Jul  4 07:29 bitrixcloud_monitoring_admin.php
+-rw-r--r--   1 ftp      ftp           111 Jul  4 07:29 bitrixcloud_monitoring_detail.php
+-rw-r--r--   1 ftp      ftp           109 Jul  4 07:29 bitrixcloud_monitoring_edit.php
+-rw-r--r--   1 ftp      ftp           109 Jul  4 07:29 bitrixcloud_monitoring_push.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 mobile

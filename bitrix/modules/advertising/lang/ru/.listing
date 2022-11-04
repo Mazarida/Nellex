@@ -1,0 +1,8 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 admin
+-rw-r--r--   1 ftp      ftp          3721 Jul  4 07:30 errors.php
+-rw-r--r--   1 ftp      ftp          2285 Jul  4 07:30 include.php
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 install
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 lib
+-rw-r--r--   1 ftp      ftp          1440 Jul  4 07:30 options.php

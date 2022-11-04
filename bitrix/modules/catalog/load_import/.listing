@@ -1,0 +1,10 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  11 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp         63200 Jul  4 07:30 commerceml_g_run.php
+-rw-r--r--   1 ftp      ftp         11613 Jul  4 07:30 commerceml_g_setup.php
+-rw-r--r--   1 ftp      ftp         31055 Jul  4 07:30 commerceml_run.php
+-rw-r--r--   1 ftp      ftp         10213 Jul  4 07:30 commerceml_setup.php
+-rw-r--r--   1 ftp      ftp          3598 Jul  4 07:30 cron_frame.php
+-rw-r--r--   1 ftp      ftp         46121 Jul  4 07:30 csv_new_run.php
+-rw-r--r--   1 ftp      ftp         34314 Jul  4 07:30 csv_new_setup.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 ru

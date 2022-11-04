@@ -1,0 +1,11 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp            37 Jul  4 07:30 base.php
+-rw-r--r--   1 ftp      ftp           190 Jul  4 07:30 booltype.php
+-rw-r--r--   1 ftp      ftp           119 Jul  4 07:30 date.php
+-rw-r--r--   1 ftp      ftp            78 Jul  4 07:30 datetime.php
+-rw-r--r--   1 ftp      ftp            78 Jul  4 07:30 double.php
+-rw-r--r--   1 ftp      ftp           150 Jul  4 07:30 file.php
+-rw-r--r--   1 ftp      ftp            63 Jul  4 07:30 internalselect.php
+-rw-r--r--   1 ftp      ftp            68 Jul  4 07:30 inttype.php
+-rw-r--r--   1 ftp      ftp           386 Jul  4 07:30 select.php

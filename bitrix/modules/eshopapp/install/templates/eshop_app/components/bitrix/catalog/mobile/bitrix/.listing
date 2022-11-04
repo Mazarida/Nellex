@@ -1,0 +1,10 @@
+drwxr-xr-x  10 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 catalog.compare.list
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 catalog.compare.result
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 catalog.element
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 catalog.filter
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 catalog.search
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 catalog.section
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 catalog.section.list
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 search.page

@@ -1,0 +1,16 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   5 ftp      ftp         36864 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           106 Jul  4 07:29 bitrixcloud_monitoring_detail.php
+-rw-r--r--   1 ftp      ftp           104 Jul  4 07:29 bitrixcloud_monitoring_edit.php
+-rw-r--r--   1 ftp      ftp           105 Jul  4 07:29 bitrixcloud_monitoring_ipage.php
+-rw-r--r--   1 ftp      ftp           104 Jul  4 07:29 bitrixcloud_monitoring_list.php
+-rw-r--r--   1 ftp      ftp           104 Jul  4 07:29 bitrixcloud_monitoring_push.php
+-rw-r--r--   1 ftp      ftp            97 Jul  4 07:29 index.php
+-rw-r--r--   1 ftp      ftp            96 Jul  4 07:29 left.php
+-rw-r--r--   1 ftp      ftp           104 Jul  4 07:29 .mobile_menu.php
+-rw-r--r--   1 ftp      ftp            96 Jul  4 07:29 push.php
+-rw-r--r--   1 ftp      ftp            99 Jul  4 07:29 sale_order_detail.php
+-rw-r--r--   1 ftp      ftp            98 Jul  4 07:29 sale_orders_list.php
+-rw-r--r--   1 ftp      ftp            98 Jul  4 07:29 sale_orders_push.php
+-rw-r--r--   1 ftp      ftp            82 Jul  4 07:29 sale.php
+-rw-r--r--   1 ftp      ftp            99 Jul  4 07:29 sale_reports_view.php

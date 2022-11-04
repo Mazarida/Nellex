@@ -1,0 +1,13 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          1103 Jul  4 07:30 marketalbumaddedit.vks
+-rw-r--r--   1 ftp      ftp           504 Jul  4 07:30 marketalbumdelete.vks
+-rw-r--r--   1 ftp      ftp           217 Jul  4 07:30 marketalbumphotosave.vks
+-rw-r--r--   1 ftp      ftp           226 Jul  4 07:30 marketalbumsget.vks
+-rw-r--r--   1 ftp      ftp           118 Jul  4 07:30 marketalbumuploadserverget.vks
+-rw-r--r--   1 ftp      ftp          1216 Jul  4 07:30 marketproductaddedit.vks
+-rw-r--r--   1 ftp      ftp           573 Jul  4 07:30 marketproductaddtoalbums.vks
+-rw-r--r--   1 ftp      ftp           480 Jul  4 07:30 marketproductdelete.vks
+-rw-r--r--   1 ftp      ftp           411 Jul  4 07:30 marketproductphotosave.vks
+-rw-r--r--   1 ftp      ftp           609 Jul  4 07:30 marketproductsget.vks
+-rw-r--r--   1 ftp      ftp           172 Jul  4 07:30 photouploadserverget.vks

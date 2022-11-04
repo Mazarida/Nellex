@@ -1,0 +1,10 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           267 Jul  4 07:29 catalog3.php
+-rw-r--r--   1 ftp      ftp          2752 Jul  4 07:29 catalog.php
+-rw-r--r--   1 ftp      ftp           341 Jul  4 07:29 faq.php
+-rw-r--r--   1 ftp      ftp           438 Jul  4 07:29 idea.php
+-rw-r--r--   1 ftp      ftp           395 Jul  4 07:29 news.php
+-rw-r--r--   1 ftp      ftp           187 Jul  4 07:29 property_names.php
+-rw-r--r--   1 ftp      ftp          2124 Jul  4 07:29 references.php
+-rw-r--r--   1 ftp      ftp           718 Jul  4 07:29 type.php

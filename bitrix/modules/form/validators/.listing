@@ -1,0 +1,12 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          2612 Jul  4 07:30 val_date_age.php
+-rw-r--r--   1 ftp      ftp          2846 Jul  4 07:30 val_date_ex.php
+-rw-r--r--   1 ftp      ftp          2409 Jul  4 07:30 val_file_size.php
+-rw-r--r--   1 ftp      ftp          2951 Jul  4 07:30 val_file_type.php
+-rw-r--r--   1 ftp      ftp          3715 Jul  4 07:30 val_image_size.php
+-rw-r--r--   1 ftp      ftp          3398 Jul  4 07:30 val_inn.php
+-rw-r--r--   1 ftp      ftp          3272 Jul  4 07:30 val_num_ex.php
+-rw-r--r--   1 ftp      ftp           997 Jul  4 07:30 val_num.php
+-rw-r--r--   1 ftp      ftp          2461 Jul  4 07:30 val_num_selected.php
+-rw-r--r--   1 ftp      ftp          2329 Jul  4 07:30 val_text_len.php

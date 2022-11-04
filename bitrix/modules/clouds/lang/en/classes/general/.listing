@@ -1,0 +1,11 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           160 Jul  4 07:30 security_service_s3.php
+-rw-r--r--   1 ftp      ftp          1412 Jul  4 07:30 storage_bucket.php
+-rw-r--r--   1 ftp      ftp           357 Jul  4 07:30 storage.php
+-rw-r--r--   1 ftp      ftp           195 Jul  4 07:30 storage_service_clodo.php
+-rw-r--r--   1 ftp      ftp           927 Jul  4 07:30 storage_service_google.php
+-rw-r--r--   1 ftp      ftp           609 Jul  4 07:30 storage_service_openstack.php
+-rw-r--r--   1 ftp      ftp           781 Jul  4 07:30 storage_service_s3.php
+-rw-r--r--   1 ftp      ftp           204 Jul  4 07:30 storage_service_selectel.php
+-rw-r--r--   1 ftp      ftp            80 Jul  4 07:30 storage_upload.php

@@ -1,0 +1,13 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x  10 ftp      ftp          4096 Jul  4 07:30 bitrix
+-rw-r--r--   1 ftp      ftp          3217 Jul  4 07:30 chapter.detail.php
+-rw-r--r--   1 ftp      ftp          1740 Jul  4 07:30 course.contents.php
+-rw-r--r--   1 ftp      ftp          2799 Jul  4 07:30 course.detail.php
+-rw-r--r--   1 ftp      ftp          1828 Jul  4 07:30 gradebook.php
+-rw-r--r--   1 ftp      ftp          3075 Jul  4 07:30 lesson.detail.php
+-rw-r--r--   1 ftp      ftp          1568 Jul  4 07:30 search.php
+-rw-r--r--   1 ftp      ftp           309 Jul  4 07:30 style.css
+-rw-r--r--   1 ftp      ftp          2853 Jul  4 07:30 test.list.php
+-rw-r--r--   1 ftp      ftp          1818 Jul  4 07:30 test.php
+-rw-r--r--   1 ftp      ftp          2486 Jul  4 07:30 test.self.php

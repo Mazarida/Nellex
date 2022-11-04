@@ -1,0 +1,7 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           999 Jul  4 07:30 blacklist.php
+-rw-r--r--   1 ftp      ftp          2359 Jul  4 07:30 contact.php
+-rw-r--r--   1 ftp      ftp          4598 Jul  4 07:30 recipient.php
+-rw-r--r--   1 ftp      ftp          1000 Jul  4 07:30 subscriber.php
+-rw-r--r--   1 ftp      ftp          2168 Jul  4 07:30 unsubscribers.php

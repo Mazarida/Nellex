@@ -1,0 +1,5 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           603 Jul  4 07:30 template.php
+-rw-r--r--   1 ftp      ftp           456 Jul  4 07:30 template_query.php
+-rw-r--r--   1 ftp      ftp           110 Jul  4 07:30 template_success.php

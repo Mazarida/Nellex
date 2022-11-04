@@ -1,0 +1,7 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x  23 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          2102 Jul  4 07:29 config.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 lang
+-rw-r--r--   1 ftp      ftp         41528 Jul  4 07:29 main.rating.js
+-rw-r--r--   1 ftp      ftp         27488 Jul  4 07:29 main.rating.map.js
+-rw-r--r--   1 ftp      ftp         27330 Jul  4 07:29 main.rating.min.js

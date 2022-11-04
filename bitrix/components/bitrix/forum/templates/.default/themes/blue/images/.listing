@@ -1,0 +1,9 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:31 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:31 ..
+-rw-r--r--   1 ftp      ftp           606 Jul  4 07:31 closed.gif
+-rw-r--r--   1 ftp      ftp           585 Jul  4 07:31 closed-newposts.gif
+-rw-r--r--   1 ftp      ftp           389 Jul  4 07:31 default.gif
+-rw-r--r--   1 ftp      ftp           386 Jul  4 07:31 moved.gif
+-rw-r--r--   1 ftp      ftp           369 Jul  4 07:31 newposts.gif
+-rw-r--r--   1 ftp      ftp           603 Jul  4 07:31 sticky.gif
+-rw-r--r--   1 ftp      ftp           580 Jul  4 07:31 sticky-newposts.gif

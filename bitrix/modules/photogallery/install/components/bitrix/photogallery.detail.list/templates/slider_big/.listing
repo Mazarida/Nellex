@@ -1,0 +1,9 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 images
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 lang
+-rw-r--r--   1 ftp      ftp          3719 Jul  4 07:29 script_cursor.js
+-rw-r--r--   1 ftp      ftp          8797 Jul  4 07:29 script_effects.js
+-rw-r--r--   1 ftp      ftp         12492 Jul  4 07:29 script_slider.js
+-rw-r--r--   1 ftp      ftp          4612 Jul  4 07:29 style.css
+-rw-r--r--   1 ftp      ftp         16716 Jul  4 07:29 template.php

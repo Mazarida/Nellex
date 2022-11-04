@@ -1,0 +1,11 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:31 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:31 ..
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:31 bitrix
+-rw-r--r--   1 ftp      ftp          6693 Jul  4 07:31 detail.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:31 lang
+-rw-r--r--   1 ftp      ftp          4914 Jul  4 07:31 news.php
+-rw-r--r--   1 ftp      ftp          3679 Jul  4 07:31 .parameters.php
+-rw-r--r--   1 ftp      ftp          1004 Jul  4 07:31 rss.php
+-rw-r--r--   1 ftp      ftp          1121 Jul  4 07:31 rss_section.php
+-rw-r--r--   1 ftp      ftp          1199 Jul  4 07:31 search.php
+-rw-r--r--   1 ftp      ftp          5140 Jul  4 07:31 section.php

@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          1770 Jul  4 07:30 install1.sql
+-rw-r--r--   1 ftp      ftp         52684 Jul  4 07:30 install.sql
+-rw-r--r--   1 ftp      ftp           136 Jul  4 07:30 uninstall1.sql
+-rw-r--r--   1 ftp      ftp          5519 Jul  4 07:30 uninstall.sql

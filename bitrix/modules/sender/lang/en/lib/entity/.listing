@@ -1,0 +1,8 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  16 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           104 Jul  4 07:30 ad.php
+-rw-r--r--   1 ftp      ftp            73 Jul  4 07:30 campaign.php
+-rw-r--r--   1 ftp      ftp           108 Jul  4 07:30 contact.php
+-rw-r--r--   1 ftp      ftp           249 Jul  4 07:30 letter.php
+-rw-r--r--   1 ftp      ftp           113 Jul  4 07:30 rc.php
+-rw-r--r--   1 ftp      ftp           104 Jul  4 07:30 segment.php

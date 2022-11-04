@@ -1,0 +1,14 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:31 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:31 ..
+-rw-r--r--   1 ftp      ftp          1416 Jul  4 07:31 ajax.php
+-rw-r--r--   1 ftp      ftp           394 Jul  4 07:31 component_epilog.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:31 images
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:31 lang
+-rw-r--r--   1 ftp      ftp           733 Jul  4 07:31 .parameters.php
+-rw-r--r--   1 ftp      ftp          2516 Jul  4 07:31 result_modifier.php
+-rw-r--r--   1 ftp      ftp         12998 Jul  4 07:31 script.js
+-rw-r--r--   1 ftp      ftp          8343 Jul  4 07:31 script.map.js
+-rw-r--r--   1 ftp      ftp          8542 Jul  4 07:31 script.min.js
+-rw-r--r--   1 ftp      ftp          8362 Jul  4 07:31 style.css
+-rw-r--r--   1 ftp      ftp          7213 Jul  4 07:31 style.min.css
+-rw-r--r--   1 ftp      ftp         11239 Jul  4 07:31 template.php

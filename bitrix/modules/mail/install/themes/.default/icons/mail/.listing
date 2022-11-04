@@ -1,0 +1,11 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          3390 Jul  4 07:29 mail_sprite.png
+-rw-r--r--   1 ftp      ftp           257 Jul  4 07:29 message.gif
+-rw-r--r--   1 ftp      ftp           240 Jul  4 07:29 message_notspam.gif
+-rw-r--r--   1 ftp      ftp           260 Jul  4 07:29 message_spam.gif
+-rw-r--r--   1 ftp      ftp           253 Jul  4 07:29 message_unread.gif
+-rw-r--r--   1 ftp      ftp           233 Jul  4 07:29 message_unread_notspam.gif
+-rw-r--r--   1 ftp      ftp           257 Jul  4 07:29 message_unread_spam.gif
+-rw-r--r--   1 ftp      ftp           659 Jul  4 07:29 mnu_mail.gif
+-rw-r--r--   1 ftp      ftp          1707 Jul  4 07:29 title.gif

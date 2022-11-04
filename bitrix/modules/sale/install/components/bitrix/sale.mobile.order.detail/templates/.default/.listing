@@ -1,0 +1,11 @@
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 dialogs
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 font
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 images
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp          2404 Jul  4 07:30 script_attached.js
+-rw-r--r--   1 ftp      ftp          2310 Jul  4 07:30 script.js
+-rw-r--r--   1 ftp      ftp            52 Jul  4 07:30 style_attached.css
+-rw-r--r--   1 ftp      ftp         17292 Jul  4 07:30 style.css
+-rw-r--r--   1 ftp      ftp          4664 Jul  4 07:30 template.php

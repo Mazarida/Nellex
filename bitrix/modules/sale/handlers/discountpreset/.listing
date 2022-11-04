@@ -1,0 +1,15 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp         15090 Jul  4 07:30 connectedproduct.php
+-rw-r--r--   1 ftp      ftp         16754 Jul  4 07:30 cumulative.php
+-rw-r--r--   1 ftp      ftp          7633 Jul  4 07:30 delivery.php
+-rw-r--r--   1 ftp      ftp          1125 Jul  4 07:30 freedelivery.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp          7662 Jul  4 07:30 orderamount.php
+-rw-r--r--   1 ftp      ftp          5354 Jul  4 07:30 orderperday.php
+-rw-r--r--   1 ftp      ftp           627 Jul  4 07:30 paysystemextra.php
+-rw-r--r--   1 ftp      ftp          5372 Jul  4 07:30 paysystem.php
+-rw-r--r--   1 ftp      ftp          5835 Jul  4 07:30 productdelivery.php
+-rw-r--r--   1 ftp      ftp          7844 Jul  4 07:30 productperday.php
+-rw-r--r--   1 ftp      ftp           562 Jul  4 07:30 simpleproductextra.php
+-rw-r--r--   1 ftp      ftp          4508 Jul  4 07:30 simpleproduct.php

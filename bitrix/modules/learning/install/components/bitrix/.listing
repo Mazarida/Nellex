@@ -1,0 +1,17 @@
+drwxr-xr-x  17 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 learning.chapter.detail
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 learning.course
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 learning.course.contents
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 learning.course.detail
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 learning.course.list
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 learning.course.tree
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 learning.lesson.detail
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 learning.search
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 learning.student.certificates
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 learning.student.gradebook
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 learning.student.profile
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 learning.student.transcript
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 learning.test
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 learning.test.list
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 learning.test.self

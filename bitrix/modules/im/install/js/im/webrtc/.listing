@@ -1,0 +1,8 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   7 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp         92967 Jul  4 07:29 adapter.js
+-rw-r--r--   1 ftp      ftp         46719 Jul  4 07:29 adapter.map.js
+-rw-r--r--   1 ftp      ftp         41382 Jul  4 07:29 adapter.min.js
+-rw-r--r--   1 ftp      ftp         79102 Jul  4 07:29 janus.js
+-rw-r--r--   1 ftp      ftp         45312 Jul  4 07:29 janus.map.js
+-rw-r--r--   1 ftp      ftp         40714 Jul  4 07:29 janus.min.js

@@ -1,0 +1,5 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          1264 Jul  4 07:30 photogallery.php
+-rw-r--r--   1 ftp      ftp           992 Jul  4 07:30 webdav.php
+-rw-r--r--   1 ftp      ftp          2656 Jul  4 07:30 webdav_settings.php

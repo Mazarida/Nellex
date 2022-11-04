@@ -1,0 +1,8 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  11 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          1967 Jul  4 07:30 calllog.php
+-rw-r--r--   1 ftp      ftp          1710 Jul  4 07:30 limiter.php
+-rw-r--r--   1 ftp      ftp          5037 Jul  4 07:30 messagecall.php
+-rw-r--r--   1 ftp      ftp          1760 Jul  4 07:30 service.php
+-rw-r--r--   1 ftp      ftp          1616 Jul  4 07:30 speechrate.php
+-rw-r--r--   1 ftp      ftp          3809 Jul  4 07:30 transportcall.php

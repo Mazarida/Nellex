@@ -1,0 +1,5 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          8170 Jul  4 07:30 additional_delivery.js
+-rw-r--r--   1 ftp      ftp          5746 Jul  4 07:30 additional_delivery.map.js
+-rw-r--r--   1 ftp      ftp          5585 Jul  4 07:30 additional_delivery.min.js

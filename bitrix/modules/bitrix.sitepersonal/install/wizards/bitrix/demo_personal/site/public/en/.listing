@@ -1,0 +1,13 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           500 Jul  4 07:29 404.php
+-rw-r--r--   1 ftp      ftp          2409 Jul  4 07:29 about.php
+-rw-r--r--   1 ftp      ftp           760 Jul  4 07:29 auth.php
+-rw-r--r--   1 ftp      ftp           666 Jul  4 07:29 contacts.php
+-rw-r--r--   1 ftp      ftp           860 Jul  4 07:29 .htaccess
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 images
+-rw-r--r--   1 ftp      ftp          2294 Jul  4 07:29 _index.php
+-rw-r--r--   1 ftp      ftp           293 Jul  4 07:29 .left.menu.php
+-rw-r--r--   1 ftp      ftp          2580 Jul  4 07:29 photo.php
+-rw-r--r--   1 ftp      ftp           798 Jul  4 07:29 search.php
+-rw-r--r--   1 ftp      ftp           339 Jul  4 07:29 .top.menu.php

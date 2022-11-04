@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  11 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          8206 Jul  4 07:30 assert.php
+-rw-r--r--   1 ftp      ftp          4808 Jul  4 07:30 csvreader.php
+-rw-r--r--   1 ftp      ftp           588 Jul  4 07:30 exception.php
+-rw-r--r--   1 ftp      ftp         12830 Jul  4 07:30 process.php

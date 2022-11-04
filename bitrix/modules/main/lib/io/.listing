@@ -1,0 +1,10 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x  39 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           926 Jul  4 07:29 directoryentry.php
+-rw-r--r--   1 ftp      ftp          3052 Jul  4 07:29 directory.php
+-rw-r--r--   1 ftp      ftp           790 Jul  4 07:29 fileentry.php
+-rw-r--r--   1 ftp      ftp          5480 Jul  4 07:29 file.php
+-rw-r--r--   1 ftp      ftp          2705 Jul  4 07:29 filesystementry.php
+-rw-r--r--   1 ftp      ftp           179 Jul  4 07:29 ifilestream.php
+-rw-r--r--   1 ftp      ftp          1820 Jul  4 07:29 ioexception.php
+-rw-r--r--   1 ftp      ftp          8752 Jul  4 07:29 path.php

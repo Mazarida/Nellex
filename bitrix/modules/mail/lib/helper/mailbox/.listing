@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp         25178 Jul  4 07:29 imap.php
+-rw-r--r--   1 ftp      ftp          4223 Jul  4 07:29 mailboxsyncmanager.php
+-rw-r--r--   1 ftp      ftp          1051 Jul  4 07:29 responseparser.php
+-rw-r--r--   1 ftp      ftp          1243 Jul  4 07:29 sharedmailboxesmanager.php

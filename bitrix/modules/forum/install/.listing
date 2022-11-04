@@ -1,0 +1,17 @@
+drwxr-xr-x   9 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   9 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 admin
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 components
+-rw-r--r--   1 ftp      ftp          4422 Jul  4 07:30 do_install1.php
+-rw-r--r--   1 ftp      ftp          2183 Jul  4 07:30 do_install2.php
+-rw-r--r--   1 ftp      ftp           665 Jul  4 07:30 do_uninstall1.php
+-rw-r--r--   1 ftp      ftp           575 Jul  4 07:30 do_uninstall2.php
+-rw-r--r--   1 ftp      ftp           308 Jul  4 07:30 event_messages.php
+-rw-r--r--   1 ftp      ftp          6971 Jul  4 07:30 events.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 images
+-rw-r--r--   1 ftp      ftp         24570 Jul  4 07:30 index.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 js
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 mysql
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 public
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 themes
+-rw-r--r--   1 ftp      ftp            99 Jul  4 07:30 version.php

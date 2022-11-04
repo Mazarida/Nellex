@@ -1,0 +1,12 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   7 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          4067 Jul  4 07:30 apclient.php
+-rw-r--r--   1 ftp      ftp          1458 Jul  4 07:30 apmanager.php
+-rw-r--r--   1 ftp      ftp          2008 Jul  4 07:30 ap.php
+-rw-r--r--   1 ftp      ftp           925 Jul  4 07:30 bitrix24signer.php
+-rw-r--r--   1 ftp      ftp          2603 Jul  4 07:30 contactconnect.php
+-rw-r--r--   1 ftp      ftp         17284 Jul  4 07:30 contact.php
+-rw-r--r--   1 ftp      ftp         15941 Jul  4 07:30 network.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 properties
+-rw-r--r--   1 ftp      ftp          3458 Jul  4 07:30 userlink.php
+-rw-r--r--   1 ftp      ftp          3521 Jul  4 07:30 user.php

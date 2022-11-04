@@ -1,0 +1,9 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x  23 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 css
+-rw-r--r--   1 ftp      ftp         26000 Jul  4 07:29 manager.js
+-rw-r--r--   1 ftp      ftp         16423 Jul  4 07:29 manager.map.js
+-rw-r--r--   1 ftp      ftp         14162 Jul  4 07:29 manager.min.js
+-rw-r--r--   1 ftp      ftp         34888 Jul  4 07:29 slider.js
+-rw-r--r--   1 ftp      ftp         21873 Jul  4 07:29 slider.map.js
+-rw-r--r--   1 ftp      ftp         21541 Jul  4 07:29 slider.min.js

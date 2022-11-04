@@ -1,0 +1,9 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   9 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          5074 Jul  4 07:29 ecrm.php
+-rw-r--r--   1 ftp      ftp          8066 Jul  4 07:29 money.php
+-rw-r--r--   1 ftp      ftp          5893 Jul  4 07:29 usertypepropertydiskfile.php
+-rw-r--r--   1 ftp      ftp          3363 Jul  4 07:29 usertypepropertyelist.php
+-rw-r--r--   1 ftp      ftp          5743 Jul  4 07:29 usertypepropertyemployee.php
+-rw-r--r--   1 ftp      ftp          5760 Jul  4 07:29 usertypepropertyhtml.php
+-rw-r--r--   1 ftp      ftp          6350 Jul  4 07:29 usertypeproperty.php

@@ -1,0 +1,16 @@
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 brands_files
+-rw-r--r--   1 ftp      ftp          2571 Jul  4 07:29 catalog2.php
+-rw-r--r--   1 ftp      ftp         15465 Jul  4 07:29 catalog3.php
+-rw-r--r--   1 ftp      ftp          2768 Jul  4 07:29 catalog4.php
+-rw-r--r--   1 ftp      ftp          6171 Jul  4 07:29 catalog.php
+-rw-r--r--   1 ftp      ftp          3053 Jul  4 07:29 eshopapp.php
+-rw-r--r--   1 ftp      ftp          2926 Jul  4 07:29 idea.php
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 lang
+-rw-r--r--   1 ftp      ftp          5929 Jul  4 07:29 news.php
+-rw-r--r--   1 ftp      ftp          4006 Jul  4 07:29 references2.php
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 references_files
+-rw-r--r--   1 ftp      ftp          8531 Jul  4 07:29 references.php
+-rw-r--r--   1 ftp      ftp          1748 Jul  4 07:29 types.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 xml

@@ -1,0 +1,5 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          6002 Jul  4 07:30 actionsdefinitions.php
+-rw-r--r--   1 ftp      ftp           221 Jul  4 07:30 graphdefinitions.php
+-rw-r--r--   1 ftp      ftp            71 Jul  4 07:30 rolesdefinitions.php

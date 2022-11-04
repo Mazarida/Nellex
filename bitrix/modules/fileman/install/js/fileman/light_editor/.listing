@@ -1,0 +1,10 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  11 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp         24518 Jul  4 07:30 le_controls.js
+-rw-r--r--   1 ftp      ftp         76284 Jul  4 07:30 le_core.js
+-rw-r--r--   1 ftp      ftp         57032 Jul  4 07:30 le_core.map.js
+-rw-r--r--   1 ftp      ftp         51247 Jul  4 07:30 le_core.min.js
+-rw-r--r--   1 ftp      ftp         30956 Jul  4 07:30 le_dialogs.js
+-rw-r--r--   1 ftp      ftp         43001 Jul  4 07:30 le_toolbarbuttons.js
+-rw-r--r--   1 ftp      ftp         14291 Jul  4 07:30 light_editor.css
+-rw-r--r--   1 ftp      ftp          8711 Jul  4 07:30 task_checkbox.js

@@ -1,0 +1,12 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x  38 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           148 Jul  4 07:29 color_pick.gif
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 components
+-rw-r--r--   1 ftp      ftp           576 Jul  4 07:29 green.gif
+-rw-r--r--   1 ftp      ftp           398 Jul  4 07:29 mnu_vote.gif
+-rw-r--r--   1 ftp      ftp          1161 Jul  4 07:29 mouse.gif
+-rw-r--r--   1 ftp      ftp           574 Jul  4 07:29 red.gif
+-rw-r--r--   1 ftp      ftp           445 Jul  4 07:29 votebar_blue.gif
+-rw-r--r--   1 ftp      ftp           779 Jul  4 07:29 votebar.gif
+-rw-r--r--   1 ftp      ftp            61 Jul  4 07:29 votebar_grey.gif
+-rw-r--r--   1 ftp      ftp          1264 Jul  4 07:29 vote.gif

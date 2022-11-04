@@ -1,0 +1,17 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 images
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp          3014 Jul  4 07:30 messages.php
+-rw-r--r--   1 ftp      ftp         60914 Jul  4 07:30 script.js
+-rw-r--r--   1 ftp      ftp             0 Jul  4 07:30 script.map.js
+-rw-r--r--   1 ftp      ftp         38643 Jul  4 07:30 script.min.js
+-rw-r--r--   1 ftp      ftp         24385 Jul  4 07:30 scripts_for_form.js
+-rw-r--r--   1 ftp      ftp         18209 Jul  4 07:30 scripts_for_form.map.js
+-rw-r--r--   1 ftp      ftp         15646 Jul  4 07:30 scripts_for_form.min.js
+-rw-r--r--   1 ftp      ftp         11060 Jul  4 07:30 scripts_for_im.js
+-rw-r--r--   1 ftp      ftp          8721 Jul  4 07:30 scripts_for_im.map.js
+-rw-r--r--   1 ftp      ftp          8146 Jul  4 07:30 scripts_for_im.min.js
+-rw-r--r--   1 ftp      ftp         20459 Jul  4 07:30 style.css
+-rw-r--r--   1 ftp      ftp         17222 Jul  4 07:30 style.min.css
+-rw-r--r--   1 ftp      ftp         10439 Jul  4 07:30 template.php

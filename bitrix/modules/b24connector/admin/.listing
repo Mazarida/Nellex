@@ -1,0 +1,11 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          3995 Jul  4 07:30 b24connector.php
+-rw-r--r--   1 ftp      ftp          1536 Jul  4 07:30 buttons.php
+-rw-r--r--   1 ftp      ftp          1672 Jul  4 07:30 chat.php
+-rw-r--r--   1 ftp      ftp          1933 Jul  4 07:30 crm_forms.php
+-rw-r--r--   1 ftp      ftp            66 Jul  4 07:30 menu.php
+-rw-r--r--   1 ftp      ftp          2566 Jul  4 07:30 open_lines.php
+-rw-r--r--   1 ftp      ftp          1344 Jul  4 07:30 prolog_before.php
+-rw-r--r--   1 ftp      ftp          1538 Jul  4 07:30 recall.php
+-rw-r--r--   1 ftp      ftp          3608 Jul  4 07:30 telefonia.php

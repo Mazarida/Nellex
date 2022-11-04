@@ -1,0 +1,12 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp         26760 Jul  4 07:29 iblock_edit.js
+-rw-r--r--   1 ftp      ftp         22823 Jul  4 07:29 iblock_edit.map.js
+-rw-r--r--   1 ftp      ftp         18808 Jul  4 07:29 iblock_edit.min.js
+-rw-r--r--   1 ftp      ftp          2042 Jul  4 07:29 path_templates.js
+-rw-r--r--   1 ftp      ftp          1882 Jul  4 07:29 path_templates.map.js
+-rw-r--r--   1 ftp      ftp          1632 Jul  4 07:29 path_templates.min.js
+-rw-r--r--   1 ftp      ftp          3989 Jul  4 07:29 subelementdet.js
+-rw-r--r--   1 ftp      ftp         12010 Jul  4 07:29 subelement.js
+-rw-r--r--   1 ftp      ftp         11990 Jul  4 07:29 sub_generator.map.js
+-rw-r--r--   1 ftp      ftp         11957 Jul  4 07:29 sub_generator.min.js

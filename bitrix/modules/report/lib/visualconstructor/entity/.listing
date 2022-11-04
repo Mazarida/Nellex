@@ -1,0 +1,8 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x  11 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          1737 Jul  4 07:29 configurablemodel.php
+-rw-r--r--   1 ftp      ftp          2871 Jul  4 07:29 configuration.php
+-rw-r--r--   1 ftp      ftp          6931 Jul  4 07:29 dashboard.php
+-rw-r--r--   1 ftp      ftp          5444 Jul  4 07:29 dashboardrow.php
+-rw-r--r--   1 ftp      ftp          5288 Jul  4 07:29 report.php
+-rw-r--r--   1 ftp      ftp         15029 Jul  4 07:29 widget.php

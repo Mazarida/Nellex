@@ -1,0 +1,8 @@
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 blocked1
+-rw-r--r--   1 ftp      ftp          2431 Jul  4 07:29 default_cube.png
+-rw-r--r--   1 ftp      ftp          2699 Jul  4 07:29 default_wide.png
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 events
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 template
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 template_v2

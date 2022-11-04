@@ -1,0 +1,8 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   7 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp         23459 Jul  4 07:29 calc.php
+-rw-r--r--   1 ftp      ftp          6785 Jul  4 07:29 detailed.php
+-rw-r--r--   1 ftp      ftp          6092 Jul  4 07:29 filter.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 helpers
+-rw-r--r--   1 ftp      ftp          1391 Jul  4 07:29 menu.php
+-rw-r--r--   1 ftp      ftp         15403 Jul  4 07:29 summary.php

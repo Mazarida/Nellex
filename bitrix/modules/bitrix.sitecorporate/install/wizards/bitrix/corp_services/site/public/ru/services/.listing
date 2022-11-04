@@ -1,0 +1,10 @@
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 corp
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 financialorg
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 fiz
+-rw-r--r--   1 ftp      ftp          6909 Jul  4 07:30 index.php
+-rw-r--r--   1 ftp      ftp            99 Jul  4 07:30 .leftfirst.menu.php
+-rw-r--r--   1 ftp      ftp           458 Jul  4 07:30 .left.menu.php
+-rw-r--r--   1 ftp      ftp            67 Jul  4 07:30 .section.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 smallbusiness

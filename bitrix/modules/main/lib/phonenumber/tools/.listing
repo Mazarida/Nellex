@@ -1,0 +1,9 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           158 Jul  4 07:29 boolfield.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 googlemetadata
+-rw-r--r--   1 ftp      ftp           864 Jul  4 07:29 metadatabuilder.php
+-rw-r--r--   1 ftp      ftp          1024 Jul  4 07:29 possiblelengthfield.php
+-rw-r--r--   1 ftp      ftp           604 Jul  4 07:29 regexfield.php
+-rw-r--r--   1 ftp      ftp          1026 Jul  4 07:29 xmlfield.php
+-rw-r--r--   1 ftp      ftp          2926 Jul  4 07:29 xmlparser.php

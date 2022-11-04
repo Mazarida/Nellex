@@ -1,0 +1,7 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          2841 Jul  4 07:29 condition.php
+-rw-r--r--   1 ftp      ftp         13216 Jul  4 07:29 conditiontree.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 expressions
+-rw-r--r--   1 ftp      ftp          2181 Jul  4 07:29 helper.php
+-rw-r--r--   1 ftp      ftp          2148 Jul  4 07:29 operator.php

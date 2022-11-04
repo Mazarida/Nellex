@@ -1,0 +1,16 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           186 Jul  4 07:29 blacklist.php
+-rw-r--r--   1 ftp      ftp           174 Jul  4 07:29 config.php
+-rw-r--r--   1 ftp      ftp           171 Jul  4 07:29 home.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 images
+-rw-r--r--   1 ftp      ftp           179 Jul  4 07:29 msg_list.php
+-rw-r--r--   1 ftp      ftp           179 Jul  4 07:29 msg_new.php
+-rw-r--r--   1 ftp      ftp           180 Jul  4 07:29 msg_view.php
+-rw-r--r--   1 ftp      ftp         41111 Jul  4 07:29 script.js
+-rw-r--r--   1 ftp      ftp         26608 Jul  4 07:29 script.map.js
+-rw-r--r--   1 ftp      ftp         27247 Jul  4 07:29 script.min.js
+-rw-r--r--   1 ftp      ftp           190 Jul  4 07:29 signature.php
+-rw-r--r--   1 ftp      ftp           190 Jul  4 07:29 signatures.php
+-rw-r--r--   1 ftp      ftp          6710 Jul  4 07:29 style.css
+-rw-r--r--   1 ftp      ftp          5881 Jul  4 07:29 style.min.css

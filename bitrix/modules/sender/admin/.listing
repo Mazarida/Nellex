@@ -1,0 +1,16 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   9 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           550 Jul  4 07:30 ads.php
+-rw-r--r--   1 ftp      ftp           263 Jul  4 07:30 blacklist.php
+-rw-r--r--   1 ftp      ftp           262 Jul  4 07:30 campaign.php
+-rw-r--r--   1 ftp      ftp           343 Jul  4 07:30 contacts.php
+-rw-r--r--   1 ftp      ftp          4285 Jul  4 07:30 convert.php
+-rw-r--r--   1 ftp      ftp           535 Jul  4 07:30 letters.php
+-rw-r--r--   1 ftp      ftp           385 Jul  4 07:30 mailing_recipient_admin.php
+-rw-r--r--   1 ftp      ftp          2833 Jul  4 07:30 menu.php
+-rw-r--r--   1 ftp      ftp           164 Jul  4 07:30 page_footer.php
+-rw-r--r--   1 ftp      ftp          1696 Jul  4 07:30 page_header.php
+-rw-r--r--   1 ftp      ftp           455 Jul  4 07:30 segments.php
+-rw-r--r--   1 ftp      ftp         11772 Jul  4 07:30 statistics.php
+-rw-r--r--   1 ftp      ftp           262 Jul  4 07:30 templates.php
+-rw-r--r--   1 ftp      ftp           429 Jul  4 07:30 trigger.php

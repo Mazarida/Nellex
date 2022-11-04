@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x  10 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          1882 Jul  4 07:29 mailsflagsmanager.php
+-rw-r--r--   1 ftp      ftp          6847 Jul  4 07:29 mailsfoldersmanager.php
+-rw-r--r--   1 ftp      ftp          4494 Jul  4 07:29 repository.php
+-rw-r--r--   1 ftp      ftp          3308 Jul  4 07:29 syncinternalmanager.php

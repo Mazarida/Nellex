@@ -1,0 +1,14 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           293 Jul  4 07:29 cs.js
+-rw-r--r--   1 ftp      ftp           297 Jul  4 07:29 cs.map.js
+-rw-r--r--   1 ftp      ftp           301 Jul  4 07:29 cs.min.js
+-rw-r--r--   1 ftp      ftp           251 Jul  4 07:29 en.js
+-rw-r--r--   1 ftp      ftp           297 Jul  4 07:29 en.map.js
+-rw-r--r--   1 ftp      ftp           259 Jul  4 07:29 en.min.js
+-rw-r--r--   1 ftp      ftp           314 Jul  4 07:29 fr.js
+-rw-r--r--   1 ftp      ftp           297 Jul  4 07:29 fr.map.js
+-rw-r--r--   1 ftp      ftp           320 Jul  4 07:29 fr.min.js
+-rw-r--r--   1 ftp      ftp           276 Jul  4 07:29 lt.js
+-rw-r--r--   1 ftp      ftp           297 Jul  4 07:29 lt.map.js
+-rw-r--r--   1 ftp      ftp           284 Jul  4 07:29 lt.min.js

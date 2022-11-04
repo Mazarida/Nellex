@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           247 Jul  4 07:30 .description.php
+-rw-r--r--   1 ftp      ftp          1054 Jul  4 07:30 mailactivity.php
+-rw-r--r--   1 ftp      ftp           936 Jul  4 07:30 properties_dialog.php
+-rw-r--r--   1 ftp      ftp           131 Jul  4 07:30 robot_properties_dialog.php

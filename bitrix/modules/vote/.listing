@@ -1,0 +1,16 @@
+drwxr-xr-x   9 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  60 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 admin
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 classes
+-rw-r--r--   1 ftp      ftp           414 Jul  4 07:30 default_option.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .idea
+-rw-r--r--   1 ftp      ftp         11925 Jul  4 07:30 include.php
+drwxr-xr-x  11 ftp      ftp          4096 Jul  4 07:30 install
+-rw-r--r--   1 ftp      ftp           279 Jul  4 07:30 keepvoting.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 lib
+-rw-r--r--   1 ftp      ftp          4643 Jul  4 07:30 options.php
+-rw-r--r--   1 ftp      ftp           331 Jul  4 07:30 prolog.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 tools
+-rw-r--r--   1 ftp      ftp            24 Jul  4 07:30 vote_admin.css
+-rw-r--r--   1 ftp      ftp         18056 Jul  4 07:30 vote_tools.php

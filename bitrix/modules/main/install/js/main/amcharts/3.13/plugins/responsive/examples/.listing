@@ -1,0 +1,15 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          2052 Jul  4 07:29 funnel.html
+-rw-r--r--   1 ftp      ftp          1987 Jul  4 07:29 gauge.html
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 images
+-rw-r--r--   1 ftp      ftp          3520 Jul  4 07:29 index.html
+-rw-r--r--   1 ftp      ftp          5715 Jul  4 07:29 map.html
+-rw-r--r--   1 ftp      ftp          1856 Jul  4 07:29 pie1.html
+-rw-r--r--   1 ftp      ftp          1925 Jul  4 07:29 pie2.html
+-rw-r--r--   1 ftp      ftp          1961 Jul  4 07:29 radar.html
+-rw-r--r--   1 ftp      ftp          5503 Jul  4 07:29 serial1.html
+-rw-r--r--   1 ftp      ftp          2554 Jul  4 07:29 serial2.html
+-rw-r--r--   1 ftp      ftp          3112 Jul  4 07:29 serial3.html
+-rw-r--r--   1 ftp      ftp          5497 Jul  4 07:29 stock.html
+-rw-r--r--   1 ftp      ftp          3569 Jul  4 07:29 xy.html

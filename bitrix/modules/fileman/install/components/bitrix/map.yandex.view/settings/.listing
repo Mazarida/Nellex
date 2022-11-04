@@ -1,0 +1,12 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          2379 Jul  4 07:30 settings.css
+-rw-r--r--   1 ftp      ftp          1443 Jul  4 07:30 settings_iframe.css
+-rw-r--r--   1 ftp      ftp          1938 Jul  4 07:30 settings.js
+-rw-r--r--   1 ftp      ftp         30892 Jul  4 07:30 settings_load.js
+-rw-r--r--   1 ftp      ftp         23130 Jul  4 07:30 settings_load.map.js
+-rw-r--r--   1 ftp      ftp         24249 Jul  4 07:30 settings_load.min.js
+-rw-r--r--   1 ftp      ftp          1875 Jul  4 07:30 settings.map.js
+-rw-r--r--   1 ftp      ftp          2123 Jul  4 07:30 settings.min.css
+-rw-r--r--   1 ftp      ftp          1604 Jul  4 07:30 settings.min.js
+-rw-r--r--   1 ftp      ftp          8164 Jul  4 07:30 settings.php

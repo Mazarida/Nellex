@@ -1,0 +1,16 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x  38 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 components
+-rw-r--r--   1 ftp      ftp          1005 Jul  4 07:29 edit_default_templ.gif
+-rw-r--r--   1 ftp      ftp           404 Jul  4 07:29 edit_def_templ_icon.gif
+-rw-r--r--   1 ftp      ftp          1031 Jul  4 07:29 edit_templ.gif
+-rw-r--r--   1 ftp      ftp           428 Jul  4 07:29 edit_templ_icon.gif
+-rw-r--r--   1 ftp      ftp           122 Jul  4 07:29 excel.gif
+-rw-r--r--   1 ftp      ftp          1613 Jul  4 07:29 form.gif
+-rw-r--r--   1 ftp      ftp           257 Jul  4 07:29 green.gif
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 htmledit2
+-rw-r--r--   1 ftp      ftp           606 Jul  4 07:29 mnu_form.gif
+-rw-r--r--   1 ftp      ftp          1161 Jul  4 07:29 mouse.gif
+-rw-r--r--   1 ftp      ftp           128 Jul  4 07:29 options_buttons.gif
+-rw-r--r--   1 ftp      ftp           251 Jul  4 07:29 red.gif
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 visual

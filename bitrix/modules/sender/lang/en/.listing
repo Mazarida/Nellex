@@ -1,0 +1,13 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 admin
+-rw-r--r--   1 ftp      ftp           737 Jul  4 07:30 include.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 install
+-rw-r--r--   1 ftp      ftp           205 Jul  4 07:30 js_admin.php
+-rw-r--r--   1 ftp      ftp           142 Jul  4 07:30 js_agreement.php
+-rw-r--r--   1 ftp      ftp           445 Jul  4 07:30 js_ajax_action.php
+-rw-r--r--   1 ftp      ftp          1196 Jul  4 07:30 js_b24_license.php
+drwxr-xr-x  16 ftp      ftp          4096 Jul  4 07:30 lib
+-rw-r--r--   1 ftp      ftp          1288 Jul  4 07:30 options.php
+-rw-r--r--   1 ftp      ftp           109 Jul  4 07:30 prolog.php
+-rw-r--r--   1 ftp      ftp           293 Jul  4 07:30 updater.php

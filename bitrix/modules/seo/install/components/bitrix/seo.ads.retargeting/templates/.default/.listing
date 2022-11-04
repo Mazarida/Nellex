@@ -1,0 +1,10 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          8996 Jul  4 07:29 configurator.css
+-rw-r--r--   1 ftp      ftp         14529 Jul  4 07:29 configurator.js
+-rw-r--r--   1 ftp      ftp         10890 Jul  4 07:29 configurator.map.js
+-rw-r--r--   1 ftp      ftp          7975 Jul  4 07:29 configurator.min.css
+-rw-r--r--   1 ftp      ftp          8947 Jul  4 07:29 configurator.min.js
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 images
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 lang
+-rw-r--r--   1 ftp      ftp         10787 Jul  4 07:29 template.php

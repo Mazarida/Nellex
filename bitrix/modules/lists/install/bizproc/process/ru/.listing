@@ -1,0 +1,7 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          7049 Jul  4 07:30 bp-cash.prc
+-rw-r--r--   1 ftp      ftp          6351 Jul  4 07:30 bp-holiday.prc
+-rw-r--r--   1 ftp      ftp          7382 Jul  4 07:30 bp-invoice.prc
+-rw-r--r--   1 ftp      ftp          4009 Jul  4 07:30 bp-outgoing_doc.prc
+-rw-r--r--   1 ftp      ftp          6810 Jul  4 07:30 bp-trip.prc

@@ -1,0 +1,15 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 data
+-rw-r--r--   1 ftp      ftp          2032 Jul  4 07:29 gantt_json.html
+-rw-r--r--   1 ftp      ftp          1431 Jul  4 07:29 gauge_json.html
+-rw-r--r--   1 ftp      ftp          1578 Jul  4 07:29 map_json_external_function.html
+-rw-r--r--   1 ftp      ftp          1275 Jul  4 07:29 map_json.html
+-rw-r--r--   1 ftp      ftp          1448 Jul  4 07:29 pie_csv.html
+-rw-r--r--   1 ftp      ftp          1149 Jul  4 07:29 pie_json.html
+-rw-r--r--   1 ftp      ftp          2576 Jul  4 07:29 serial2_json.html
+-rw-r--r--   1 ftp      ftp          2788 Jul  4 07:29 serial_csv.html
+-rw-r--r--   1 ftp      ftp          2680 Jul  4 07:29 serial_json.html
+-rw-r--r--   1 ftp      ftp          2767 Jul  4 07:29 serial_with_dynamic_graphs.html
+-rw-r--r--   1 ftp      ftp          7962 Jul  4 07:29 stock_csv_data_and_events.html
+-rw-r--r--   1 ftp      ftp          9672 Jul  4 07:29 stock_csv_progressbar.html

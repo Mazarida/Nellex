@@ -1,0 +1,8 @@
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 admin
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 classes
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 install
+-rw-r--r--   1 ftp      ftp          4620 Jul  4 07:30 options.php
+-rw-r--r--   1 ftp      ftp           208 Jul  4 07:30 prolog.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 tools

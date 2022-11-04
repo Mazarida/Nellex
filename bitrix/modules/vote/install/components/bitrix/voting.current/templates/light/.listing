@@ -1,0 +1,8 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   9 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 bitrix
+-rw-r--r--   1 ftp      ftp           216 Jul  4 07:30 .description.php
+-rw-r--r--   1 ftp      ftp          2012 Jul  4 07:30 form.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp           953 Jul  4 07:30 result.php
+-rw-r--r--   1 ftp      ftp            46 Jul  4 07:30 style.css

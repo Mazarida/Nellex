@@ -1,0 +1,12 @@
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   7 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 context
+-rw-r--r--   1 ftp      ftp          2911 Jul  4 07:29 converter.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 integration
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 internal
+-rw-r--r--   1 ftp      ftp          6504 Jul  4 07:29 message.php
+-rw-r--r--   1 ftp      ftp          2205 Jul  4 07:29 messagestatus.php
+-rw-r--r--   1 ftp      ftp           163 Jul  4 07:29 messagetype.php
+-rw-r--r--   1 ftp      ftp          6844 Jul  4 07:29 queue.php
+-rw-r--r--   1 ftp      ftp         12143 Jul  4 07:29 restservice.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 sender

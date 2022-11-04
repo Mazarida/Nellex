@@ -1,0 +1,10 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          5568 Jul  4 07:30 history.php
+-rw-r--r--   1 ftp      ftp          4082 Jul  4 07:30 index.php
+-rw-r--r--   1 ftp      ftp           106 Jul  4 07:30 .leftfirst.menu.php
+-rw-r--r--   1 ftp      ftp           468 Jul  4 07:30 .left.menu.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 management
+-rw-r--r--   1 ftp      ftp          4957 Jul  4 07:30 mission.php
+-rw-r--r--   1 ftp      ftp            74 Jul  4 07:30 .section.php
+-rw-r--r--   1 ftp      ftp           602 Jul  4 07:30 vacancies.php

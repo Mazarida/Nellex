@@ -1,0 +1,14 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          4282 Jul  4 07:29 gantt.json
+-rw-r--r--   1 ftp      ftp           425 Jul  4 07:29 gauge.json
+-rw-r--r--   1 ftp      ftp          2882 Jul  4 07:29 map_areas.json
+-rw-r--r--   1 ftp      ftp          3219 Jul  4 07:29 map.json
+-rw-r--r--   1 ftp      ftp        184186 Jul  4 07:29 MSFT.csv
+-rw-r--r--   1 ftp      ftp          3347 Jul  4 07:29 MSFT_events.csv
+-rw-r--r--   1 ftp      ftp           131 Jul  4 07:29 pie.csv
+-rw-r--r--   1 ftp      ftp           348 Jul  4 07:29 pie.json
+-rw-r--r--   1 ftp      ftp           338 Jul  4 07:29 serial2.json
+-rw-r--r--   1 ftp      ftp           381 Jul  4 07:29 serial.csv
+-rw-r--r--   1 ftp      ftp          1548 Jul  4 07:29 serial.json
+-rw-r--r--   1 ftp      ftp        182707 Jul  4 07:29 TXN.csv

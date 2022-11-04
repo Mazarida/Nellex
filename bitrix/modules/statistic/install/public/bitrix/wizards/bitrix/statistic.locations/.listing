@@ -1,0 +1,8 @@
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           378 Jul  4 07:30 .description.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 images
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 js
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 scripts
+-rw-r--r--   1 ftp      ftp          9022 Jul  4 07:30 wizard.php

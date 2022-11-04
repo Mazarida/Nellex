@@ -1,0 +1,7 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          2816 Jul  4 07:29 blog.php
+-rw-r--r--   1 ftp      ftp         10956 Jul  4 07:29 comment.php
+-rw-r--r--   1 ftp      ftp           365 Jul  4 07:29 permissions.php
+-rw-r--r--   1 ftp      ftp         10455 Jul  4 07:29 post.php
+-rw-r--r--   1 ftp      ftp           360 Jul  4 07:29 postsocnetrights.php

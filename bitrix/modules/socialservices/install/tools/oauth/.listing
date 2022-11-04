@@ -1,0 +1,15 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          1592 Jul  4 07:30 bitrix24net.php
+-rw-r--r--   1 ftp      ftp           883 Jul  4 07:30 bitrix24.php
+-rw-r--r--   1 ftp      ftp           869 Jul  4 07:30 box.php
+-rw-r--r--   1 ftp      ftp           873 Jul  4 07:30 dropbox.php
+-rw-r--r--   1 ftp      ftp           874 Jul  4 07:30 facebook.php
+-rw-r--r--   1 ftp      ftp          1079 Jul  4 07:30 google.php
+-rw-r--r--   1 ftp      ftp           874 Jul  4 07:30 liveid.php
+-rw-r--r--   1 ftp      ftp           877 Jul  4 07:30 mailru.php
+-rw-r--r--   1 ftp      ftp           892 Jul  4 07:30 odnoklassniki.php
+-rw-r--r--   1 ftp      ftp           873 Jul  4 07:30 office365.php
+-rw-r--r--   1 ftp      ftp            95 Jul  4 07:30 socserv.ajax.php
+-rw-r--r--   1 ftp      ftp           561 Jul  4 07:30 twitter.php
+-rw-r--r--   1 ftp      ftp           875 Jul  4 07:30 yandex.php

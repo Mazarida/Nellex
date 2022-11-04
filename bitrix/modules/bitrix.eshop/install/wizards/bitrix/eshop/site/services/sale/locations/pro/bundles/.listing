@@ -1,0 +1,8 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp         16411 Jul  4 07:29 belarus.csv
+-rw-r--r--   1 ftp      ftp          5681 Jul  4 07:29 kazakhstan.csv
+-rw-r--r--   1 ftp      ftp        284107 Jul  4 07:29 russia.csv
+-rw-r--r--   1 ftp      ftp       1072232 Jul  4 07:29 ukrain.csv
+-rw-r--r--   1 ftp      ftp        876449 Jul  4 07:29 usa.csv
+-rw-r--r--   1 ftp      ftp          3146 Jul  4 07:29 world.csv

@@ -1,0 +1,6 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  21 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 generator
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 model
+-rw-r--r--   1 ftp      ftp           551 Jul  4 07:30 numerator.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 service

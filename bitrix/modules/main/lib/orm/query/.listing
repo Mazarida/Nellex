@@ -1,0 +1,13 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          5956 Jul  4 07:29 chainelement.php
+-rw-r--r--   1 ftp      ftp         11075 Jul  4 07:29 chain.php
+-rw-r--r--   1 ftp      ftp          3497 Jul  4 07:29 expression.php
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 filter
+-rw-r--r--   1 ftp      ftp           280 Jul  4 07:29 inosqlprimaryselector.php
+-rw-r--r--   1 ftp      ftp           634 Jul  4 07:29 join.php
+-rw-r--r--   1 ftp      ftp          2869 Jul  4 07:29 nosqlprimaryselector.php
+-rw-r--r--   1 ftp      ftp         87000 Jul  4 07:29 query.php
+-rw-r--r--   1 ftp      ftp         14502 Jul  4 07:29 result.php
+-rw-r--r--   1 ftp      ftp          1706 Jul  4 07:29 unioncondition.php
+-rw-r--r--   1 ftp      ftp          2336 Jul  4 07:29 union.php

@@ -1,0 +1,4 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  10 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          3200 Jul  4 07:30 locations.csv
+-rw-r--r--   1 ftp      ftp           254 Jul  4 07:30 tarif_data.csv

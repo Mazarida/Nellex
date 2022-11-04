@@ -1,0 +1,12 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp         10962 Jul  4 07:30 comp_parameters.php
+-rw-r--r--   1 ftp      ftp          7713 Jul  4 07:30 customrank.php
+-rw-r--r--   1 ftp      ftp          1532 Jul  4 07:30 full_text.php
+-rw-r--r--   1 ftp      ftp          5155 Jul  4 07:30 item.php
+-rw-r--r--   1 ftp      ftp         92038 Jul  4 07:30 search.php
+-rw-r--r--   1 ftp      ftp          9465 Jul  4 07:30 sitemap.php
+-rw-r--r--   1 ftp      ftp          8519 Jul  4 07:30 statistic.php
+-rw-r--r--   1 ftp      ftp          6855 Jul  4 07:30 tags.php
+-rw-r--r--   1 ftp      ftp          4263 Jul  4 07:30 title.php
+-rw-r--r--   1 ftp      ftp          2812 Jul  4 07:30 user.php

@@ -1,0 +1,9 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp         11255 Jul  4 07:29 editor.js
+-rw-r--r--   1 ftp      ftp             0 Jul  4 07:29 editor.map.js
+-rw-r--r--   1 ftp      ftp          6341 Jul  4 07:29 editor.min.js
+-rw-r--r--   1 ftp      ftp          9761 Jul  4 07:29 locale.js
+-rw-r--r--   1 ftp      ftp          6695 Jul  4 07:29 locale.map.js
+-rw-r--r--   1 ftp      ftp          7562 Jul  4 07:29 locale.min.js
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 provider

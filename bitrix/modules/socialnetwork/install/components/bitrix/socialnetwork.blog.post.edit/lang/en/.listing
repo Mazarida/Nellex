@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          1889 Jul  4 07:29 component.php
+-rw-r--r--   1 ftp      ftp           195 Jul  4 07:29 .description.php
+-rw-r--r--   1 ftp      ftp           921 Jul  4 07:29 .parameters.php
+-rw-r--r--   1 ftp      ftp           665 Jul  4 07:29 post.ajax.php

@@ -1,0 +1,12 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  20 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          2385 Jul  4 07:30 durationcountbased.php
+-rw-r--r--   1 ftp      ftp          1176 Jul  4 07:30 durationdatebased.php
+-rw-r--r--   1 ftp      ftp          3245 Jul  4 07:30 duration.php
+-rw-r--r--   1 ftp      ftp           609 Jul  4 07:30 imethod.php
+-rw-r--r--   1 ftp      ftp          1034 Jul  4 07:30 methoddefered.php
+-rw-r--r--   1 ftp      ftp          2335 Jul  4 07:30 method.php
+-rw-r--r--   1 ftp      ftp          7506 Jul  4 07:30 methodschedule.php
+-rw-r--r--   1 ftp      ftp          1255 Jul  4 07:30 methodtime.php
+-rw-r--r--   1 ftp      ftp          1316 Jul  4 07:30 semantics.php
+-rw-r--r--   1 ftp      ftp         16277 Jul  4 07:30 state.php

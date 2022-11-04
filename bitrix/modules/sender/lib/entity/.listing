@@ -1,0 +1,13 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  20 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           936 Jul  4 07:30 ad.php
+-rw-r--r--   1 ftp      ftp          9111 Jul  4 07:30 base.php
+-rw-r--r--   1 ftp      ftp          4336 Jul  4 07:30 campaign.php
+-rw-r--r--   1 ftp      ftp          4270 Jul  4 07:30 chain.php
+-rw-r--r--   1 ftp      ftp          6014 Jul  4 07:30 contact.php
+-rw-r--r--   1 ftp      ftp         22127 Jul  4 07:30 letter.php
+-rw-r--r--   1 ftp      ftp          4952 Jul  4 07:30 message.php
+-rw-r--r--   1 ftp      ftp          1249 Jul  4 07:30 rc.php
+-rw-r--r--   1 ftp      ftp          8492 Jul  4 07:30 segment.php
+-rw-r--r--   1 ftp      ftp          1195 Jul  4 07:30 template.php
+-rw-r--r--   1 ftp      ftp          1183 Jul  4 07:30 triggercampaign.php

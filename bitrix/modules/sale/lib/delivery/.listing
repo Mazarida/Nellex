@@ -1,0 +1,16 @@
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  23 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          3022 Jul  4 07:30 calculationresult.php
+-rw-r--r--   1 ftp      ftp           338 Jul  4 07:30 deliverylocationexclude.php
+-rw-r--r--   1 ftp      ftp          1649 Jul  4 07:30 deliverylocation.php
+-rw-r--r--   1 ftp      ftp           659 Jul  4 07:30 delivery.php
+-rw-r--r--   1 ftp      ftp         18294 Jul  4 07:30 externallocationmap.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 extra_services
+-rw-r--r--   1 ftp      ftp          3389 Jul  4 07:30 helper.php
+-rw-r--r--   1 ftp      ftp         14773 Jul  4 07:30 inputs.php
+-rw-r--r--   1 ftp      ftp          3167 Jul  4 07:30 menu.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 packing
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 requests
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 restrictions
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 services
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 tracking

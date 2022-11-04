@@ -1,0 +1,7 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  16 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          1176 Jul  4 07:30 mailblockbase.php
+-rw-r--r--   1 ftp      ftp          1176 Jul  4 07:30 mailblock.php
+-rw-r--r--   1 ftp      ftp          6581 Jul  4 07:30 templatebase.php
+-rw-r--r--   1 ftp      ftp          6581 Jul  4 07:30 template.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 templates

@@ -1,0 +1,15 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   9 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 skins
+-rw-r--r--   1 ftp      ftp        270547 Jul  4 07:30 videojs-contrib-hls.map.js
+-rw-r--r--   1 ftp      ftp        204540 Jul  4 07:30 videojs-contrib-hls.min.js
+-rw-r--r--   1 ftp      ftp         41434 Jul  4 07:30 video-js.min.css
+-rw-r--r--   1 ftp      ftp          8136 Jul  4 07:30 videojs-playlist-dev.map.js
+-rw-r--r--   1 ftp      ftp          6093 Jul  4 07:30 videojs-playlist-dev.min.js
+-rw-r--r--   1 ftp      ftp          1086 Jul  4 07:30 videojs-playlist.min.css
+-rw-r--r--   1 ftp      ftp        319827 Jul  4 07:30 video.map.js
+-rw-r--r--   1 ftp      ftp        269011 Jul  4 07:30 video.min.js
+-rw-r--r--   1 ftp      ftp         10789 Jul  4 07:30 vimeo.map.js
+-rw-r--r--   1 ftp      ftp          9008 Jul  4 07:30 vimeo.min.js
+-rw-r--r--   1 ftp      ftp         12851 Jul  4 07:30 youtube.map.js
+-rw-r--r--   1 ftp      ftp         11616 Jul  4 07:30 youtube.min.js

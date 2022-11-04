@@ -1,0 +1,7 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           147 Jul  4 07:30 answer.php
+-rw-r--r--   1 ftp      ftp           546 Jul  4 07:30 channel.php
+-rw-r--r--   1 ftp      ftp            35 Jul  4 07:30 im.php
+-rw-r--r--   1 ftp      ftp           209 Jul  4 07:30 question.php
+-rw-r--r--   1 ftp      ftp          1445 Jul  4 07:30 vote.php

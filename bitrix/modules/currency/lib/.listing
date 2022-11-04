@@ -1,0 +1,11 @@
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   9 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 compatible
+-rw-r--r--   1 ftp      ftp         53267 Jul  4 07:29 currencyclassifier.php
+-rw-r--r--   1 ftp      ftp          5809 Jul  4 07:29 currencylang.php
+-rw-r--r--   1 ftp      ftp         11433 Jul  4 07:29 currencymanager.php
+-rw-r--r--   1 ftp      ftp          4730 Jul  4 07:29 currency.php
+-rw-r--r--   1 ftp      ftp          3375 Jul  4 07:29 currencyrate.php
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 helpers
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 integration
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 userfield

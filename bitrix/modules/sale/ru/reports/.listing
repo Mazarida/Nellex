@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp         29955 Jul  4 07:30 factura.php
+-rw-r--r--   1 ftp      ftp         16100 Jul  4 07:30 invoice.php
+-rw-r--r--   1 ftp      ftp          8716 Jul  4 07:30 order_form.php
+-rw-r--r--   1 ftp      ftp         81869 Jul  4 07:30 waybill.php

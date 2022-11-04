@@ -1,0 +1,8 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   9 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          5793 Jul  4 07:30 dblapprove.php
+-rw-r--r--   1 ftp      ftp          4744 Jul  4 07:30 expert.php
+-rw-r--r--   1 ftp      ftp          2204 Jul  4 07:30 review.php
+-rw-r--r--   1 ftp      ftp          5146 Jul  4 07:30 simple.php
+-rw-r--r--   1 ftp      ftp          8156 Jul  4 07:30 status.php
+-rw-r--r--   1 ftp      ftp          3340 Jul  4 07:30 vote1st.php

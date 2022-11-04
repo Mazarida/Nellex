@@ -1,0 +1,15 @@
+drwxr-xr-x   7 ftp      ftp          4096 Jul  4 07:31 .
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:31 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:31 cache
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:31 classes
+-rw-r--r--   1 ftp      ftp           511 Jul  4 07:31 composer.json
+-rw-r--r--   1 ftp      ftp          4554 Jul  4 07:31 config.php
+-rw-r--r--   1 ftp      ftp          3141 Jul  4 07:31 index.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:31 langs
+-rw-r--r--   1 ftp      ftp          3727 Jul  4 07:31 MIT-license.txt
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:31 plugins
+-rw-r--r--   1 ftp      ftp         12581 Jul  4 07:31 README.md
+-rw-r--r--   1 ftp      ftp         39840 Jul  4 07:31 readme_ru.txt
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:31 skins
+-rw-r--r--   1 ftp      ftp          2415 Jul  4 07:31 template.php
+-rw-r--r--   1 ftp      ftp          4466 Jul  4 07:31 template.php.bak

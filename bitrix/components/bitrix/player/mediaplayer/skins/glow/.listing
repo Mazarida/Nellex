@@ -1,0 +1,10 @@
+drwxr-xr-x   7 ftp      ftp          4096 Jul  4 07:31 .
+drwxr-xr-x  20 ftp      ftp          4096 Jul  4 07:31 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:31 controlbar
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:31 display
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:31 dock
+-rw-r--r--   1 ftp      ftp          1702 Jul  4 07:31 glow.png
+-rw-r--r--   1 ftp      ftp          4205 Jul  4 07:31 glow.xml
+-rw-r--r--   1 ftp      ftp         24137 Jul  4 07:31 glow.zip
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:31 playlist
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:31 sharing

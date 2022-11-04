@@ -1,0 +1,11 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           983 Jul  4 07:30 menu.php
+-rw-r--r--   1 ftp      ftp          4051 Jul  4 07:30 translate_check_files.php
+-rw-r--r--   1 ftp      ftp         16978 Jul  4 07:30 translate_collector.php
+-rw-r--r--   1 ftp      ftp          3244 Jul  4 07:30 translate_csv_download.php
+-rw-r--r--   1 ftp      ftp         17031 Jul  4 07:30 translate_edit.php
+-rw-r--r--   1 ftp      ftp          5316 Jul  4 07:30 translate_edit_php.php
+-rw-r--r--   1 ftp      ftp         20376 Jul  4 07:30 translate_list.php
+-rw-r--r--   1 ftp      ftp          4724 Jul  4 07:30 translate_search.php
+-rw-r--r--   1 ftp      ftp          3089 Jul  4 07:30 translate_show_php.php

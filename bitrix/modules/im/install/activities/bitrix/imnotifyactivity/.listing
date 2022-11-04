@@ -1,0 +1,7 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           361 Jul  4 07:29 .description.php
+-rw-r--r--   1 ftp      ftp           218 Jul  4 07:29 icon.gif
+-rw-r--r--   1 ftp      ftp          5787 Jul  4 07:29 imnotifyactivity.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 lang
+-rw-r--r--   1 ftp      ftp          2279 Jul  4 07:29 properties_dialog.php

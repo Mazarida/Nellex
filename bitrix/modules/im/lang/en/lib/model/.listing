@@ -1,0 +1,16 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   7 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           199 Jul  4 07:29 alias.php
+-rw-r--r--   1 ftp      ftp           156 Jul  4 07:29 botchat.php
+-rw-r--r--   1 ftp      ftp          1423 Jul  4 07:29 bot.php
+-rw-r--r--   1 ftp      ftp           358 Jul  4 07:29 bottoken.php
+-rw-r--r--   1 ftp      ftp           755 Jul  4 07:29 chat.php
+-rw-r--r--   1 ftp      ftp           339 Jul  4 07:29 commandlang.php
+-rw-r--r--   1 ftp      ftp           722 Jul  4 07:29 command.php
+-rw-r--r--   1 ftp      ftp           183 Jul  4 07:29 externalavatar.php
+-rw-r--r--   1 ftp      ftp           330 Jul  4 07:29 messageparam.php
+-rw-r--r--   1 ftp      ftp           946 Jul  4 07:29 message.php
+-rw-r--r--   1 ftp      ftp           286 Jul  4 07:29 norelationpermissiondisk.php
+-rw-r--r--   1 ftp      ftp           328 Jul  4 07:29 recent.php
+-rw-r--r--   1 ftp      ftp           710 Jul  4 07:29 relation.php
+-rw-r--r--   1 ftp      ftp           508 Jul  4 07:29 status.php

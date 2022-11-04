@@ -1,0 +1,11 @@
+.menu_altasib_review {
+    background: url(icons/altasib.review/menu.png) no-repeat center;
+}
+
+#menu_altasib_review {
+    background-image: url(icons/altasib.review/mnu.gif);
+}
+
+#altasib_review_page_icon {
+    background-image: url(icons/altasib.review/title.gif);
+}

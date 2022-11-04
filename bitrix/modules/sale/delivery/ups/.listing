@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  10 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp         11647 Jul  4 07:30 export.php
+-rw-r--r--   1 ftp      ftp         15580 Jul  4 07:30 ru_csv_export.csv
+-rw-r--r--   1 ftp      ftp         14836 Jul  4 07:30 ru_csv_zones.csv
+-rw-r--r--   1 ftp      ftp          7590 Jul  4 07:30 zones.php

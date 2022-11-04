@@ -1,0 +1,9 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          1082 Jul  4 07:29 authortable.php
+-rw-r--r--   1 ftp      ftp           230 Jul  4 07:29 book.php
+-rw-r--r--   1 ftp      ftp           242 Jul  4 07:29 books.php
+-rw-r--r--   1 ftp      ftp          2048 Jul  4 07:29 booktable.php
+-rw-r--r--   1 ftp      ftp           762 Jul  4 07:29 publishertable.php
+-rw-r--r--   1 ftp      ftp          1146 Jul  4 07:29 storebooktable.php
+-rw-r--r--   1 ftp      ftp           837 Jul  4 07:29 storetable.php

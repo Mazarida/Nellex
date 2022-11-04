@@ -1,0 +1,12 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          9869 Jul  4 07:29 domain2.php
+-rw-r--r--   1 ftp      ftp          4434 Jul  4 07:29 domain.php
+-rw-r--r--   1 ftp      ftp          5698 Jul  4 07:29 domain_registrar.php
+-rw-r--r--   1 ftp      ftp          3623 Jul  4 07:29 imap.php
+-rw-r--r--   1 ftp      ftp        106954 Jul  4 07:29 mail.php
+-rw-r--r--   1 ftp      ftp          4376 Jul  4 07:29 regru.php
+-rw-r--r--   1 ftp      ftp          5496 Jul  4 07:29 rest.php
+-rw-r--r--   1 ftp      ftp         22154 Jul  4 07:29 smtp.php
+-rw-r--r--   1 ftp      ftp         17613 Jul  4 07:29 yandex2.php
+-rw-r--r--   1 ftp      ftp          6831 Jul  4 07:29 yandex.php

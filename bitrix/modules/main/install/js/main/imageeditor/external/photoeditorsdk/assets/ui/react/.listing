@@ -1,0 +1,12 @@
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           363 Jul  4 07:29 close@2x.png
+-rw-r--r--   1 ftp      ftp           232 Jul  4 07:29 close.png
+drwxr-xr-x  15 ftp      ftp          4096 Jul  4 07:29 controls
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 editor
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 fonts
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 photo-roll
+-rw-r--r--   1 ftp      ftp         25462 Jul  4 07:29 preloader@2x.png
+-rw-r--r--   1 ftp      ftp          5876 Jul  4 07:29 preloader.png
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 splash
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 top-bar

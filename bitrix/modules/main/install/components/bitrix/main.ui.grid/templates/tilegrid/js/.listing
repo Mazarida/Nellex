@@ -1,0 +1,8 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          1574 Jul  4 07:30 manager.js
+-rw-r--r--   1 ftp      ftp          1299 Jul  4 07:30 manager.map.js
+-rw-r--r--   1 ftp      ftp           844 Jul  4 07:30 manager.min.js
+-rw-r--r--   1 ftp      ftp          4627 Jul  4 07:30 useroptions.js
+-rw-r--r--   1 ftp      ftp          3552 Jul  4 07:30 useroptions.map.js
+-rw-r--r--   1 ftp      ftp          2878 Jul  4 07:30 useroptions.min.js

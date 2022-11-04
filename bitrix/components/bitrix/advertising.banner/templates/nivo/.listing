@@ -1,0 +1,12 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   7 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           172 Jul  4 07:30 component_epilog.php
+-rw-r--r--   1 ftp      ftp         12280 Jul  4 07:30 jquery.nivo.slider.pack.js
+-rw-r--r--   1 ftp      ftp         13578 Jul  4 07:30 jquery.nivo.slider.pack.map.js
+-rw-r--r--   1 ftp      ftp         12131 Jul  4 07:30 jquery.nivo.slider.pack.min.js
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp          2023 Jul  4 07:30 nivo-slider.css
+-rw-r--r--   1 ftp      ftp          1165 Jul  4 07:30 nivo-slider.min.css
+-rw-r--r--   1 ftp      ftp          1811 Jul  4 07:30 .parameters.php
+-rw-r--r--   1 ftp      ftp          2855 Jul  4 07:30 template.php
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 themes

@@ -1,0 +1,9 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   7 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 images
+-rw-r--r--   1 ftp      ftp         52661 Jul  4 07:30 jssor.slider.min.js
+-rw-r--r--   1 ftp      ftp         84041 Jul  4 07:30 jssor.slider.min.map.js
+-rw-r--r--   1 ftp      ftp         52940 Jul  4 07:30 jssor.slider.min.min.js
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp        107996 Jul  4 07:30 .parameters.php
+-rw-r--r--   1 ftp      ftp         11664 Jul  4 07:30 template.php

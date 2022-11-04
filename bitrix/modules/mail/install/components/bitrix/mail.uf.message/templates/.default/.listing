@@ -1,0 +1,7 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           251 Jul  4 07:29 empty.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 images
+-rw-r--r--   1 ftp      ftp           989 Jul  4 07:29 style.css
+-rw-r--r--   1 ftp      ftp           799 Jul  4 07:29 style.min.css
+-rw-r--r--   1 ftp      ftp          3862 Jul  4 07:29 template.php

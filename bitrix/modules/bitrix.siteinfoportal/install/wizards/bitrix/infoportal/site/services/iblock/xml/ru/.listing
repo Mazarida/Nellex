@@ -1,0 +1,14 @@
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp         41014 Jul  4 07:29 board.xml
+-rw-r--r--   1 ftp      ftp         71245 Jul  4 07:29 links.xml
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 nationalnews_files
+-rw-r--r--   1 ftp      ftp          9499 Jul  4 07:29 nationalnews.xml
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 news_files
+-rw-r--r--   1 ftp      ftp        133952 Jul  4 07:29 news.xml
+-rw-r--r--   1 ftp      ftp         34896 Jul  4 07:29 resume.xml
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 themenews_files
+-rw-r--r--   1 ftp      ftp          7515 Jul  4 07:29 themenews.xml
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 user_photogallery_files
+-rw-r--r--   1 ftp      ftp         41419 Jul  4 07:29 user_photogallery.xml
+-rw-r--r--   1 ftp      ftp         58679 Jul  4 07:29 vacancy.xml

@@ -1,0 +1,11 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           850 Jul  4 07:29 board.php
+-rw-r--r--   1 ftp      ftp           749 Jul  4 07:29 links.php
+-rw-r--r--   1 ftp      ftp           314 Jul  4 07:29 nationalnews.php
+-rw-r--r--   1 ftp      ftp           858 Jul  4 07:29 news.php
+-rw-r--r--   1 ftp      ftp          1441 Jul  4 07:29 resume.php
+-rw-r--r--   1 ftp      ftp           391 Jul  4 07:29 themenews.php
+-rw-r--r--   1 ftp      ftp           584 Jul  4 07:29 type.php
+-rw-r--r--   1 ftp      ftp          1160 Jul  4 07:29 user_photogallery.php
+-rw-r--r--   1 ftp      ftp          1323 Jul  4 07:29 vacancy.php

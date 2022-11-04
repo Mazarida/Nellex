@@ -1,0 +1,3 @@
+<?
+$MESS["CT_BCI_TPL_MESS_PRICE_SIMPLE_MODE"] = "from #PRICE# for #VALUE# #UNIT#";
+$MESS["AVAILABLE_SIZES_TEXT"] = "Available sizes";

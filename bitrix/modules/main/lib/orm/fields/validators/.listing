@@ -1,0 +1,12 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           585 Jul  4 07:29 booleanvalidator.php
+-rw-r--r--   1 ftp      ftp           580 Jul  4 07:29 datevalidator.php
+-rw-r--r--   1 ftp      ftp           668 Jul  4 07:29 enumvalidator.php
+-rw-r--r--   1 ftp      ftp          1322 Jul  4 07:29 foreignvalidator.php
+-rw-r--r--   1 ftp      ftp           468 Jul  4 07:29 ivalidator.php
+-rw-r--r--   1 ftp      ftp          2738 Jul  4 07:29 lengthvalidator.php
+-rw-r--r--   1 ftp      ftp          2322 Jul  4 07:29 rangevalidator.php
+-rw-r--r--   1 ftp      ftp           999 Jul  4 07:29 regexpvalidator.php
+-rw-r--r--   1 ftp      ftp          1009 Jul  4 07:29 uniquevalidator.php
+-rw-r--r--   1 ftp      ftp          1565 Jul  4 07:29 validator.php

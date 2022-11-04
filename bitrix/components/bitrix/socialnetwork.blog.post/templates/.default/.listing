@@ -1,0 +1,10 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          8972 Jul  4 07:30 destination.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp          2702 Jul  4 07:30 result_modifier.php
+-rw-r--r--   1 ftp      ftp         36168 Jul  4 07:30 script.js
+-rw-r--r--   1 ftp      ftp         25576 Jul  4 07:30 script.map.js
+-rw-r--r--   1 ftp      ftp         25169 Jul  4 07:30 script.min.js
+-rw-r--r--   1 ftp      ftp           809 Jul  4 07:30 scripts.js
+-rw-r--r--   1 ftp      ftp         45185 Jul  4 07:30 template.php

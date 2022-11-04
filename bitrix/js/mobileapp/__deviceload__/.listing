@@ -1,0 +1,5 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp         60128 Jul  4 07:29 cordova.js
+-rw-r--r--   1 ftp      ftp         28958 Jul  4 07:29 cordova.map.js
+-rw-r--r--   1 ftp      ftp         22624 Jul  4 07:29 cordova.min.js

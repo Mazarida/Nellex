@@ -1,0 +1,6 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 bitrix
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 lang
+-rw-r--r--   1 ftp      ftp           279 Jul  4 07:29 .parameters.php
+-rw-r--r--   1 ftp      ftp          9404 Jul  4 07:29 template.php

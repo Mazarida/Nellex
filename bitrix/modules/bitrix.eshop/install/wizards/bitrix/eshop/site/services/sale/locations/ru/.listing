@@ -1,0 +1,6 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          3200 Jul  4 07:29 loc_kz.csv
+-rw-r--r--   1 ftp      ftp        787049 Jul  4 07:29 loc_ua.csv
+-rw-r--r--   1 ftp      ftp         48107 Jul  4 07:29 loc_ussr.csv
+-rw-r--r--   1 ftp      ftp        537378 Jul  4 07:29 zip_ussr.csv

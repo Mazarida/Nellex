@@ -1,0 +1,8 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp       5492315 Jul  4 07:30 ebaySvc.xsd
+-rw-r--r--   1 ftp      ftp           799 Jul  4 07:30 Inventory.xsd
+-rw-r--r--   1 ftp      ftp           759 Jul  4 07:30 OrderAck.xsd
+-rw-r--r--   1 ftp      ftp           574 Jul  4 07:30 Order.xsd
+-rw-r--r--   1 ftp      ftp         17891 Jul  4 07:30 Product.xsd
+-rw-r--r--   1 ftp      ftp          1159 Jul  4 07:30 Shipment.xsd

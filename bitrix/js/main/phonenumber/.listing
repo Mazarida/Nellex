@@ -1,0 +1,8 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x  23 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 css
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 flag
+-rw-r--r--   1 ftp      ftp        331164 Jul  4 07:29 metadata.json
+-rw-r--r--   1 ftp      ftp         56898 Jul  4 07:29 phonenumber.js
+-rw-r--r--   1 ftp      ftp         33740 Jul  4 07:29 phonenumber.map.js
+-rw-r--r--   1 ftp      ftp         27621 Jul  4 07:29 phonenumber.min.js

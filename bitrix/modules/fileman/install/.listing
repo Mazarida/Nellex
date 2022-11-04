@@ -1,0 +1,16 @@
+drwxr-xr-x  11 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 admin
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 components
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 db
+-rw-r--r--   1 ftp      ftp            63 Jul  4 07:30 description.ru
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 fileman
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 images
+-rw-r--r--   1 ftp      ftp          7982 Jul  4 07:30 index.php
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 js
+-rw-r--r--   1 ftp      ftp           284 Jul  4 07:30 step1.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 tasks
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 themes
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 tools
+-rw-r--r--   1 ftp      ftp           285 Jul  4 07:30 unstep1.php
+-rw-r--r--   1 ftp      ftp            99 Jul  4 07:30 version.php

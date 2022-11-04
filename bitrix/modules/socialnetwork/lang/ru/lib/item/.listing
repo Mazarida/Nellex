@@ -1,0 +1,5 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          1599 Jul  4 07:29 usertogroup.php
+-rw-r--r--   1 ftp      ftp           310 Jul  4 07:29 workgroupfavorites.php
+-rw-r--r--   1 ftp      ftp          3455 Jul  4 07:29 workgroup.php

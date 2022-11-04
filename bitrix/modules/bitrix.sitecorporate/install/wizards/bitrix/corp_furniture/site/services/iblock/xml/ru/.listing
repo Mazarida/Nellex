@@ -1,0 +1,8 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp         11788 Jul  4 07:30 news.xml
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 products_files
+-rw-r--r--   1 ftp      ftp         92336 Jul  4 07:30 products.xml
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 services_files
+-rw-r--r--   1 ftp      ftp          7634 Jul  4 07:30 services.xml
+-rw-r--r--   1 ftp      ftp          8204 Jul  4 07:30 vacancies.xml

@@ -1,0 +1,8 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          1661 Jul  4 07:30 soapbase.php
+-rw-r--r--   1 ftp      ftp          3558 Jul  4 07:30 soapclient.php
+-rw-r--r--   1 ftp      ftp         10448 Jul  4 07:30 soapcodec.php
+-rw-r--r--   1 ftp      ftp          2971 Jul  4 07:30 soaprequest.php
+-rw-r--r--   1 ftp      ftp         12363 Jul  4 07:30 soapresponse.php
+-rw-r--r--   1 ftp      ftp         10191 Jul  4 07:30 soapserver.php

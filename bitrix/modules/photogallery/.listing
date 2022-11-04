@@ -1,0 +1,10 @@
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x  60 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 classes
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 fonts
+-rw-r--r--   1 ftp      ftp         10053 Jul  4 07:29 include.php
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 install
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 lang
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 lib
+-rw-r--r--   1 ftp      ftp          5414 Jul  4 07:29 options.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 tools

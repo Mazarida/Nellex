@@ -1,0 +1,10 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp         17987 Jul  4 07:29 crm_entity_editor_resourcebooking.js
+-rw-r--r--   1 ftp      ftp         11281 Jul  4 07:29 crm_entity_editor_resourcebooking.map.js
+-rw-r--r--   1 ftp      ftp         12874 Jul  4 07:29 crm_entity_editor_resourcebooking.min.js
+-rw-r--r--   1 ftp      ftp         32749 Jul  4 07:29 resourcebooking.css
+-rw-r--r--   1 ftp      ftp        106206 Jul  4 07:29 resourcebooking.js
+-rw-r--r--   1 ftp      ftp         70263 Jul  4 07:29 resourcebooking.map.js
+-rw-r--r--   1 ftp      ftp         29896 Jul  4 07:29 resourcebooking.min.css
+-rw-r--r--   1 ftp      ftp         73495 Jul  4 07:29 resourcebooking.min.js

@@ -1,0 +1,7 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 internals
+-rw-r--r--   1 ftp      ftp          1121 Jul  4 07:29 report.php
+-rw-r--r--   1 ftp      ftp          4911 Jul  4 07:29 rightsmanager.php
+-rw-r--r--   1 ftp      ftp         12095 Jul  4 07:29 sharing.php
+drwxr-xr-x  11 ftp      ftp          4096 Jul  4 07:29 visualconstructor

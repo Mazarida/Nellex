@@ -1,0 +1,9 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  10 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           881 Jul  4 07:30 cm_tarif.csv
+-rw-r--r--   1 ftp      ftp         16368 Jul  4 07:30 delivery_time.csv
+-rw-r--r--   1 ftp      ftp          4903 Jul  4 07:30 old_loc_to_codes.php
+-rw-r--r--   1 ftp      ftp           743 Jul  4 07:30 tarif_data.csv
+-rw-r--r--   1 ftp      ftp          1030 Jul  4 07:30 tarif_regions.csv
+-rw-r--r--   1 ftp      ftp        406856 Jul  4 07:30 zip_zones.csv
+-rw-r--r--   1 ftp      ftp         15254 Jul  4 07:30 zones.csv

@@ -1,0 +1,7 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           744 Jul  4 07:29 addresult.php
+-rw-r--r--   1 ftp      ftp         31854 Jul  4 07:29 datamanager.php
+-rw-r--r--   1 ftp      ftp           238 Jul  4 07:29 deleteresult.php
+-rw-r--r--   1 ftp      ftp          1681 Jul  4 07:29 result.php
+-rw-r--r--   1 ftp      ftp           961 Jul  4 07:29 updateresult.php

@@ -1,0 +1,13 @@
+drwxr-xr-x  13 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 blog.commented_posts
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 blog.group.blog
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 blog.groups
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 blog.menu
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 blog.new_blogs
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 blog.new_comments
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 blog.new_posts
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 blog.new_posts.list
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 blog.popular_blogs
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 blog.popular_posts
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 blog.rss.link

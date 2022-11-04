@@ -1,0 +1,13 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 images
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 lang
+-rw-r--r--   1 ftp      ftp          2124 Jul  4 07:29 .parameters.php
+-rw-r--r--   1 ftp      ftp          1474 Jul  4 07:29 result_modifier.php
+-rw-r--r--   1 ftp      ftp          2556 Jul  4 07:29 script.js
+-rw-r--r--   1 ftp      ftp          3190 Jul  4 07:29 style.css
+-rw-r--r--   1 ftp      ftp          5065 Jul  4 07:29 template_ascetic.php
+-rw-r--r--   1 ftp      ftp          6239 Jul  4 07:29 template_default.php
+-rw-r--r--   1 ftp      ftp         14835 Jul  4 07:29 template.php
+-rw-r--r--   1 ftp      ftp          3057 Jul  4 07:29 template_resizer.php
+-rw-r--r--   1 ftp      ftp          7084 Jul  4 07:29 template_table.php

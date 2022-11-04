@@ -1,0 +1,12 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           114 Jul  4 07:30 ajax.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp         14302 Jul  4 07:30 lhe.php
+-rw-r--r--   1 ftp      ftp          2458 Jul  4 07:30 neweditor.php
+-rw-r--r--   1 ftp      ftp           267 Jul  4 07:30 .parameters.php
+-rw-r--r--   1 ftp      ftp          1415 Jul  4 07:30 result_modifier.php
+-rw-r--r--   1 ftp      ftp          5576 Jul  4 07:30 script.php
+-rw-r--r--   1 ftp      ftp         15151 Jul  4 07:30 scripts_for_editor.php
+-rw-r--r--   1 ftp      ftp           394 Jul  4 07:30 style.css
+-rw-r--r--   1 ftp      ftp         32648 Jul  4 07:30 template.php

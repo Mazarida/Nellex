@@ -1,0 +1,14 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp            46 Jul  4 07:29 arr_down.gif
+-rw-r--r--   1 ftp      ftp            46 Jul  4 07:29 arr_up.gif
+-rw-r--r--   1 ftp      ftp           436 Jul  4 07:29 clear_time.gif
+-rw-r--r--   1 ftp      ftp            74 Jul  4 07:29 close.gif
+-rw-r--r--   1 ftp      ftp           104 Jul  4 07:29 left.gif
+-rw-r--r--   1 ftp      ftp           105 Jul  4 07:29 right.gif
+-rw-r--r--   1 ftp      ftp           427 Jul  4 07:29 set_time.gif
+-rw-r--r--   1 ftp      ftp            46 Jul  4 07:29 spin_down.gif
+-rw-r--r--   1 ftp      ftp            46 Jul  4 07:29 spin_up.gif
+-rw-r--r--   1 ftp      ftp           146 Jul  4 07:29 title_bg.gif
+-rw-r--r--   1 ftp      ftp           392 Jul  4 07:29 today.gif
+-rw-r--r--   1 ftp      ftp           188 Jul  4 07:29 toolbar_bg.gif

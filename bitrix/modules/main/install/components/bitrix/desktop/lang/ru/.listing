@@ -1,0 +1,9 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           930 Jul  4 07:30 admin_settings_all.php
+-rw-r--r--   1 ftp      ftp           479 Jul  4 07:30 admin_settings.php
+-rw-r--r--   1 ftp      ftp          2664 Jul  4 07:30 component.php
+-rw-r--r--   1 ftp      ftp           206 Jul  4 07:30 .description.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 help
+-rw-r--r--   1 ftp      ftp            74 Jul  4 07:30 include.php
+-rw-r--r--   1 ftp      ftp          1942 Jul  4 07:30 .parameters.php

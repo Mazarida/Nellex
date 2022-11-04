@@ -1,0 +1,8 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  18 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp            84 Jul  4 07:30 baseservicehandler.php
+-rw-r--r--   1 ftp      ftp           910 Jul  4 07:30 compatibilityhandler.php
+-rw-r--r--   1 ftp      ftp          2245 Jul  4 07:30 manager.php
+-rw-r--r--   1 ftp      ftp            62 Jul  4 07:30 resthandler.php
+-rw-r--r--   1 ftp      ftp           702 Jul  4 07:30 service.php
+-rw-r--r--   1 ftp      ftp           592 Jul  4 07:30 yandexcert.php

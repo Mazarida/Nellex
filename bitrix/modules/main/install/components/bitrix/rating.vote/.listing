@@ -1,0 +1,8 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  63 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          4997 Jul  4 07:30 component.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 images
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+drwxr-xr-x  10 ftp      ftp          4096 Jul  4 07:30 templates
+-rw-r--r--   1 ftp      ftp          7932 Jul  4 07:30 vote.ajax.php
+-rw-r--r--   1 ftp      ftp          1363 Jul  4 07:30 vote.php

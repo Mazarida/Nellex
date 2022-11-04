@@ -1,0 +1,12 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   9 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp            81 Jul  4 07:30 sender_ads.php
+-rw-r--r--   1 ftp      ftp            87 Jul  4 07:30 sender_blacklist.php
+-rw-r--r--   1 ftp      ftp            86 Jul  4 07:30 sender_campaign.php
+-rw-r--r--   1 ftp      ftp            86 Jul  4 07:30 sender_contacts.php
+-rw-r--r--   1 ftp      ftp            85 Jul  4 07:30 sender_convert.php
+-rw-r--r--   1 ftp      ftp            85 Jul  4 07:30 sender_letters.php
+-rw-r--r--   1 ftp      ftp            86 Jul  4 07:30 sender_segments.php
+-rw-r--r--   1 ftp      ftp            88 Jul  4 07:30 sender_statistics.php
+-rw-r--r--   1 ftp      ftp            87 Jul  4 07:30 sender_templates.php
+-rw-r--r--   1 ftp      ftp            85 Jul  4 07:30 sender_trigger.php

@@ -1,0 +1,8 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   9 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 en
+-rw-r--r--   1 ftp      ftp           371 Jul  4 07:30 install2.sql
+-rw-r--r--   1 ftp      ftp         11469 Jul  4 07:30 install.sql
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 ru
+-rw-r--r--   1 ftp      ftp          4018 Jul  4 07:30 smile.sql
+-rw-r--r--   1 ftp      ftp           956 Jul  4 07:30 uninstall.sql

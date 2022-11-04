@@ -1,0 +1,12 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   7 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          2074 Jul  4 07:29 autolog.php
+-rw-r--r--   1 ftp      ftp          5891 Jul  4 07:29 auto.php
+-rw-r--r--   1 ftp      ftp          1273 Jul  4 07:29 link.php
+-rw-r--r--   1 ftp      ftp          2238 Jul  4 07:29 log.php
+-rw-r--r--   1 ftp      ftp          2261 Jul  4 07:29 order.php
+-rw-r--r--   1 ftp      ftp         15181 Jul  4 07:29 yandexbanner.php
+-rw-r--r--   1 ftp      ftp         16611 Jul  4 07:29 yandexcampaign.php
+-rw-r--r--   1 ftp      ftp          1173 Jul  4 07:29 yandexgroup.php
+-rw-r--r--   1 ftp      ftp          3727 Jul  4 07:29 yandexregion.php
+-rw-r--r--   1 ftp      ftp          9520 Jul  4 07:29 yandexstat.php

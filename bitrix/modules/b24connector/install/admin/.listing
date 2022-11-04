@@ -1,0 +1,9 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   9 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp            95 Jul  4 07:30 b24connector_b24connector.php
+-rw-r--r--   1 ftp      ftp            90 Jul  4 07:30 b24connector_buttons.php
+-rw-r--r--   1 ftp      ftp            87 Jul  4 07:30 b24connector_chat.php
+-rw-r--r--   1 ftp      ftp            92 Jul  4 07:30 b24connector_crm_forms.php
+-rw-r--r--   1 ftp      ftp            93 Jul  4 07:30 b24connector_open_lines.php
+-rw-r--r--   1 ftp      ftp            89 Jul  4 07:30 b24connector_recall.php
+-rw-r--r--   1 ftp      ftp            92 Jul  4 07:30 b24connector_telefonia.php

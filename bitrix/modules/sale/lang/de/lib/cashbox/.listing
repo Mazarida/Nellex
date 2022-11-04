@@ -1,0 +1,16 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  18 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp            58 Jul  4 07:30 cashbox1c.php
+-rw-r--r--   1 ftp      ftp          2051 Jul  4 07:30 cashboxatolfarm.php
+-rw-r--r--   1 ftp      ftp          1401 Jul  4 07:30 cashboxbitrix.php
+-rw-r--r--   1 ftp      ftp            88 Jul  4 07:30 cashbox.php
+-rw-r--r--   1 ftp      ftp           580 Jul  4 07:30 checkmanager.php
+-rw-r--r--   1 ftp      ftp            57 Jul  4 07:30 firstofd.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 internals
+-rw-r--r--   1 ftp      ftp            93 Jul  4 07:30 manager.php
+-rw-r--r--   1 ftp      ftp           269 Jul  4 07:30 reportmanager.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 restrictions
+-rw-r--r--   1 ftp      ftp           107 Jul  4 07:30 sellcheck.php
+-rw-r--r--   1 ftp      ftp           119 Jul  4 07:30 sellordercheck.php
+-rw-r--r--   1 ftp      ftp            84 Jul  4 07:30 sellreturncashcheck.php
+-rw-r--r--   1 ftp      ftp            77 Jul  4 07:30 sellreturncheck.php

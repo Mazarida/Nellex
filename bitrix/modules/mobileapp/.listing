@@ -1,0 +1,12 @@
+drwxr-xr-x  11 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  60 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 admin
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 classes
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 include
+-rw-r--r--   1 ftp      ftp          1457 Jul  4 07:30 include.php
+drwxr-xr-x   7 ftp      ftp          4096 Jul  4 07:30 install
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lib
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 maps
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 templates
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 templates_app

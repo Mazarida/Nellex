@@ -1,0 +1,14 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x  10 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 attachment
+-rw-r--r--   1 ftp      ftp          1807 Jul  4 07:29 contactsstepper.php
+-rw-r--r--   1 ftp      ftp           868 Jul  4 07:29 licensemanager.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 mailbox
+-rw-r--r--   1 ftp      ftp         17710 Jul  4 07:29 mailbox.php
+-rw-r--r--   1 ftp      ftp          3228 Jul  4 07:29 mailcontact.php
+-rw-r--r--   1 ftp      ftp          5254 Jul  4 07:29 messageeventmanager.php
+-rw-r--r--   1 ftp      ftp          2588 Jul  4 07:29 messagefolder.php
+-rw-r--r--   1 ftp      ftp          1135 Jul  4 07:29 messageindexstepper.php
+-rw-r--r--   1 ftp      ftp          7716 Jul  4 07:29 message.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 oauth
+-rw-r--r--   1 ftp      ftp          7114 Jul  4 07:29 oauth.php

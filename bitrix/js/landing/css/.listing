@@ -1,0 +1,8 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x  17 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp         20275 Jul  4 07:29 landing_master.css
+-rw-r--r--   1 ftp      ftp         18179 Jul  4 07:29 landing_master.min.css
+-rw-r--r--   1 ftp      ftp         53582 Jul  4 07:29 landing_public.css
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 mediaservice
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 provider
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:29 ui

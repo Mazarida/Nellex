@@ -1,0 +1,7 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 common
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 service
+-rw-r--r--   1 ftp      ftp         26918 Jul  4 07:29 sprite-file.min.svg
+-rw-r--r--   1 ftp      ftp         13588 Jul  4 07:29 sprite-files.min.svg
+-rw-r--r--   1 ftp      ftp         27224 Jul  4 07:29 sprite-files.svg

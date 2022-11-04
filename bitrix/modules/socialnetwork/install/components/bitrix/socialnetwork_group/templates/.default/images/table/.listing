@@ -1,0 +1,9 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   9 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp            53 Jul  4 07:29 active_down.gif
+-rw-r--r--   1 ftp      ftp            54 Jul  4 07:29 active_up.gif
+-rw-r--r--   1 ftp      ftp           257 Jul  4 07:29 green.gif
+-rw-r--r--   1 ftp      ftp            53 Jul  4 07:29 passive_down.gif
+-rw-r--r--   1 ftp      ftp           251 Jul  4 07:29 red.gif
+-rw-r--r--   1 ftp      ftp           255 Jul  4 07:29 up.gif
+-rw-r--r--   1 ftp      ftp           249 Jul  4 07:29 yellow.gif

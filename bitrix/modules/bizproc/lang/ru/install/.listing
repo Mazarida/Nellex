@@ -1,0 +1,7 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 activities
+-rw-r--r--   1 ftp      ftp           453 Jul  4 07:30 events.php
+-rw-r--r--   1 ftp      ftp           923 Jul  4 07:30 index.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 js
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 tools

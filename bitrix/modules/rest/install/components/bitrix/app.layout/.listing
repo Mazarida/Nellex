@@ -1,0 +1,8 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x  29 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp         13353 Jul  4 07:29 component.php
+-rw-r--r--   1 ftp      ftp           500 Jul  4 07:29 .description.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 lang
+-rw-r--r--   1 ftp      ftp          1182 Jul  4 07:29 lazyload.ajax.php
+-rw-r--r--   1 ftp      ftp           711 Jul  4 07:29 .parameters.php
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 templates

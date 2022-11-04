@@ -1,0 +1,6 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          2997 Jul  4 07:29 automaticarea.php
+-rw-r--r--   1 ftp      ftp          1506 Jul  4 07:29 locker.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 model
+-rw-r--r--   1 ftp      ftp          2478 Jul  4 07:29 pagemanager.php

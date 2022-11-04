@@ -1,0 +1,7 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           188 Jul  4 07:30 currency.php
+-rw-r--r--   1 ftp      ftp           208 Jul  4 07:30 delivery.php
+-rw-r--r--   1 ftp      ftp           366 Jul  4 07:30 percentprice.php
+-rw-r--r--   1 ftp      ftp           238 Jul  4 07:30 persontype.php
+-rw-r--r--   1 ftp      ftp           346 Jul  4 07:30 price.php

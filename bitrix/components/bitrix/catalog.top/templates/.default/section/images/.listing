@@ -1,0 +1,13 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:31 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:31 ..
+-rw-r--r--   1 ftp      ftp          3034 Jul  4 07:31 arr_left.png
+-rw-r--r--   1 ftp      ftp          3036 Jul  4 07:31 arr_right.png
+-rw-r--r--   1 ftp      ftp           959 Jul  4 07:31 fade_left.png
+-rw-r--r--   1 ftp      ftp          2835 Jul  4 07:31 fade_right.png
+-rw-r--r--   1 ftp      ftp          2862 Jul  4 07:31 missing.png
+-rw-r--r--   1 ftp      ftp          2059 Jul  4 07:31 no_photo.png
+-rw-r--r--   1 ftp      ftp          2059 Jul  4 07:31 no_prop_value.png
+-rw-r--r--   1 ftp      ftp          7167 Jul  4 07:31 stick_disc.png
+-rw-r--r--   1 ftp      ftp          3557 Jul  4 07:31 stick.png
+-rw-r--r--   1 ftp      ftp          2809 Jul  4 07:31 x2border_active.png
+-rw-r--r--   1 ftp      ftp          2811 Jul  4 07:31 x2border.png

@@ -1,0 +1,17 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:31 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:31 ..
+-rw-r--r--   1 ftp      ftp            72 Jul  4 07:31 arr_scroll_down.gif
+-rw-r--r--   1 ftp      ftp            72 Jul  4 07:31 arr_scroll_up.gif
+-rw-r--r--   1 ftp      ftp           364 Jul  4 07:31 bg_arr_pole.png
+-rw-r--r--   1 ftp      ftp           158 Jul  4 07:31 bg_form_reviews.png
+-rw-r--r--   1 ftp      ftp          1331 Jul  4 07:31 bg_input_file.png
+-rw-r--r--   1 ftp      ftp           159 Jul  4 07:31 bg_line_shadow.png
+-rw-r--r--   1 ftp      ftp          1157 Jul  4 07:31 bg_submit_add.png
+-rw-r--r--   1 ftp      ftp           100 Jul  4 07:31 bg_submit_reset.gif
+-rw-r--r--   1 ftp      ftp           106 Jul  4 07:31 bg_submit_reset_hov.gif
+-rw-r--r--   1 ftp      ftp           835 Jul  4 07:31 bg_submit_review.png
+-rw-r--r--   1 ftp      ftp           556 Jul  4 07:31 checkbox_bg.png
+-rw-r--r--   1 ftp      ftp            72 Jul  4 07:31 select_arr.gif
+-rw-r--r--   1 ftp      ftp            43 Jul  4 07:31 spacer.gif
+-rw-r--r--   1 ftp      ftp           104 Jul  4 07:31 track_bg.gif
+-rw-r--r--   1 ftp      ftp           967 Jul  4 07:31 vote_bg.png

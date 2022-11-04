@@ -1,0 +1,6 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   9 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x  14 ftp      ftp          4096 Jul  4 07:29 bitrix
+-rw-r--r--   1 ftp      ftp          2578 Jul  4 07:29 post_edit.php
+-rw-r--r--   1 ftp      ftp          3971 Jul  4 07:29 post.php
+-rw-r--r--   1 ftp      ftp          2310 Jul  4 07:29 user.php

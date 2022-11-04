@@ -1,0 +1,9 @@
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 advertising
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 catalog
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 forum
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:29 iblock
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 main
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 sale
+-rw-r--r--   1 ftp      ftp          1097 Jul  4 07:29 .services.php

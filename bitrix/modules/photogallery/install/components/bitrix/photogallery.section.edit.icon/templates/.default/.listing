@@ -1,0 +1,5 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 lang
+-rw-r--r--   1 ftp      ftp          1082 Jul  4 07:29 script.js
+-rw-r--r--   1 ftp      ftp          5838 Jul  4 07:29 template.php

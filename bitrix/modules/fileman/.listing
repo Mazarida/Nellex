@@ -1,0 +1,14 @@
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  60 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 admin
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 classes
+-rw-r--r--   1 ftp      ftp           543 Jul  4 07:30 fileman_admin.css
+-rw-r--r--   1 ftp      ftp         73242 Jul  4 07:30 fileman.php
+-rw-r--r--   1 ftp      ftp          4119 Jul  4 07:30 include.php
+drwxr-xr-x  11 ftp      ftp          4096 Jul  4 07:30 install
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 js
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lib
+-rw-r--r--   1 ftp      ftp         67374 Jul  4 07:30 options.php
+-rw-r--r--   1 ftp      ftp           365 Jul  4 07:30 prolog.php
+-rw-r--r--   1 ftp      ftp         99104 Jul  4 07:30 properties.php

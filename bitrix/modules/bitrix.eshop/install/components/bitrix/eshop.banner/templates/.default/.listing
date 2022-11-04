@@ -1,0 +1,8 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 fonts
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 images
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 lang
+-rw-r--r--   1 ftp      ftp          1036 Jul  4 07:29 style.css
+-rw-r--r--   1 ftp      ftp           884 Jul  4 07:29 style.min.css
+-rw-r--r--   1 ftp      ftp          1182 Jul  4 07:29 template.php

@@ -1,0 +1,14 @@
+drwxr-xr-x   7 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 admin
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 components
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 db
+-rw-r--r--   1 ftp      ftp           913 Jul  4 07:29 events.php
+-rw-r--r--   1 ftp      ftp          8859 Jul  4 07:29 index.php
+-rw-r--r--   1 ftp      ftp          1756 Jul  4 07:29 inst1.php
+-rw-r--r--   1 ftp      ftp          1302 Jul  4 07:29 inst2.php
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 php_interface
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 themes
+-rw-r--r--   1 ftp      ftp           821 Jul  4 07:29 uninst1.php
+-rw-r--r--   1 ftp      ftp           495 Jul  4 07:29 uninst2.php
+-rw-r--r--   1 ftp      ftp           100 Jul  4 07:29 version.php

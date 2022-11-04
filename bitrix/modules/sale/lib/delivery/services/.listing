@@ -1,0 +1,12 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   8 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp         27709 Jul  4 07:30 automatic.php
+-rw-r--r--   1 ftp      ftp         12666 Jul  4 07:30 automatic_profile.php
+-rw-r--r--   1 ftp      ftp         17253 Jul  4 07:30 base.php
+-rw-r--r--   1 ftp      ftp          6192 Jul  4 07:30 configurable.php
+-rw-r--r--   1 ftp      ftp          2378 Jul  4 07:30 emptydeliveryservice.php
+-rw-r--r--   1 ftp      ftp          1367 Jul  4 07:30 group.php
+-rw-r--r--   1 ftp      ftp         32553 Jul  4 07:30 manager.php
+-rw-r--r--   1 ftp      ftp          4359 Jul  4 07:30 new_to_automatic.php
+-rw-r--r--   1 ftp      ftp          1321 Jul  4 07:30 objectpool.php
+-rw-r--r--   1 ftp      ftp          4666 Jul  4 07:30 table.php

@@ -1,0 +1,10 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp          1818 Jul  4 07:29 detail_list.php
+-rw-r--r--   1 ftp      ftp          1168 Jul  4 07:29 galleries_recalc.php
+-rw-r--r--   1 ftp      ftp            65 Jul  4 07:29 gallery.php
+-rw-r--r--   1 ftp      ftp          2619 Jul  4 07:29 index.php
+-rw-r--r--   1 ftp      ftp          1550 Jul  4 07:29 .parameters.php
+-rw-r--r--   1 ftp      ftp            50 Jul  4 07:29 result_modifier.php
+-rw-r--r--   1 ftp      ftp            39 Jul  4 07:29 search.php
+-rw-r--r--   1 ftp      ftp            44 Jul  4 07:29 section.php

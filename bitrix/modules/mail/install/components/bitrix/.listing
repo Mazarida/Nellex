@@ -1,0 +1,14 @@
+drwxr-xr-x  14 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 mail.blacklist.list
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 mail.client
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 mail.client.config
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 mail.client.home
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 mail.client.message.list
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 mail.client.message.new
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 mail.client.message.view
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 mail.client.sidepanel
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 mail.contact.avatar
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 mail.uf.message
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 mail.usersignature.edit
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 mail.usersignature.list

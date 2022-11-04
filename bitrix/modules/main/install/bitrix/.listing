@@ -1,0 +1,15 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x  23 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp            58 Jul  4 07:29 .access.php
+-rw-r--r--   1 ftp      ftp           779 Jul  4 07:29 bitrix.php
+-rw-r--r--   1 ftp      ftp            57 Jul  4 07:29 composer-bx.json
+-rw-r--r--   1 ftp      ftp           214 Jul  4 07:29 composer.json.example
+-rw-r--r--   1 ftp      ftp         17073 Jul  4 07:29 coupon_activation.php
+-rw-r--r--   1 ftp      ftp           159 Jul  4 07:29 footer.php
+-rw-r--r--   1 ftp      ftp            86 Jul  4 07:29 header.php
+-rw-r--r--   1 ftp      ftp            83 Jul  4 07:29 index.php
+-rw-r--r--   1 ftp      ftp            98 Jul  4 07:29 p3p.xml
+-rw-r--r--   1 ftp      ftp            73 Jul  4 07:29 spread.php
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 templates
+-rw-r--r--   1 ftp      ftp           203 Jul  4 07:29 urlrewrite.php
+-rw-r--r--   1 ftp      ftp           104 Jul  4 07:29 virtual_file_system.php

@@ -1,0 +1,7 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x  56 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           404 Jul  4 07:30 .description.php
+-rw-r--r--   1 ftp      ftp           630 Jul  4 07:30 icon.gif
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp           577 Jul  4 07:30 properties_dialog.php
+-rw-r--r--   1 ftp      ftp          3801 Jul  4 07:30 savehistoryactivity.php

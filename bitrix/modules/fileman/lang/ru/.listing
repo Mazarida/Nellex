@@ -1,0 +1,13 @@
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 admin
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 classes
+-rw-r--r--   1 ftp      ftp          6555 Jul  4 07:30 fileman.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 install
+-rw-r--r--   1 ftp      ftp           757 Jul  4 07:30 js_block_editor.php
+-rw-r--r--   1 ftp      ftp           334 Jul  4 07:30 js_userfield_address.php
+-rw-r--r--   1 ftp      ftp          3496 Jul  4 07:30 lang.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lib
+-rw-r--r--   1 ftp      ftp         14915 Jul  4 07:30 options.php
+-rw-r--r--   1 ftp      ftp            80 Jul  4 07:30 prolog.php
+-rw-r--r--   1 ftp      ftp          8264 Jul  4 07:30 properties.php

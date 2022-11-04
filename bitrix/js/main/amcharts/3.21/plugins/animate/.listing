@@ -1,0 +1,13 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   6 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp         12284 Jul  4 07:29 animate.js
+-rw-r--r--   1 ftp      ftp          8408 Jul  4 07:29 animate.map.js
+-rw-r--r--   1 ftp      ftp          5012 Jul  4 07:29 animate.min.js
+-rw-r--r--   1 ftp      ftp           508 Jul  4 07:29 bower.json
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 examples
+-rw-r--r--   1 ftp      ftp            72 Jul  4 07:29 index.js
+-rw-r--r--   1 ftp      ftp           114 Jul  4 07:29 index.map.js
+-rw-r--r--   1 ftp      ftp           104 Jul  4 07:29 index.min.js
+-rw-r--r--   1 ftp      ftp         11357 Jul  4 07:29 LICENSE
+-rw-r--r--   1 ftp      ftp           212 Jul  4 07:29 package.json
+-rw-r--r--   1 ftp      ftp          2668 Jul  4 07:29 README.md

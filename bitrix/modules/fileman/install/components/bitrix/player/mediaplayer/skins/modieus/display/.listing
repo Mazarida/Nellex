@@ -1,0 +1,8 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   7 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           197 Jul  4 07:30 background.png
+-rw-r--r--   1 ftp      ftp           556 Jul  4 07:30 bufferIcon.png
+-rw-r--r--   1 ftp      ftp           160 Jul  4 07:30 muteIconOver.png
+-rw-r--r--   1 ftp      ftp           160 Jul  4 07:30 muteIcon.png
+-rw-r--r--   1 ftp      ftp           221 Jul  4 07:30 playIconOver.png
+-rw-r--r--   1 ftp      ftp           221 Jul  4 07:30 playIcon.png

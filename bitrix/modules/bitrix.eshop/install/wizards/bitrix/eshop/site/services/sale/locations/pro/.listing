@@ -1,0 +1,8 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 bundles
+-rw-r--r--   1 ftp      ftp           136 Jul  4 07:29 country_codes.php
+-rw-r--r--   1 ftp      ftp            27 Jul  4 07:29 externalservice.csv
+-rw-r--r--   1 ftp      ftp           241 Jul  4 07:29 file_map.php
+-rw-r--r--   1 ftp      ftp           413 Jul  4 07:29 type.csv
+-rw-r--r--   1 ftp      ftp           544 Jul  4 07:29 type.v2.csv

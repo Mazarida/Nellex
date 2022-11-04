@@ -1,0 +1,8 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           326 Jul  4 07:30 component_epilog.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 images
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp          2614 Jul  4 07:30 style.css
+-rw-r--r--   1 ftp      ftp          2357 Jul  4 07:30 style.min.css
+-rw-r--r--   1 ftp      ftp          4675 Jul  4 07:30 template.php

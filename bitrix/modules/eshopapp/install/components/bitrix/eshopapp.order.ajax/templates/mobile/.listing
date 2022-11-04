@@ -1,0 +1,12 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          6951 Jul  4 07:30 auth.php
+-rw-r--r--   1 ftp      ftp          1857 Jul  4 07:30 confirm.php
+-rw-r--r--   1 ftp      ftp          3742 Jul  4 07:30 delivery.php
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 images
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp          2750 Jul  4 07:30 paysystem.php
+-rw-r--r--   1 ftp      ftp          7483 Jul  4 07:30 props.php
+-rw-r--r--   1 ftp      ftp         11251 Jul  4 07:30 style.css
+-rw-r--r--   1 ftp      ftp          3857 Jul  4 07:30 summary.php
+-rw-r--r--   1 ftp      ftp          6645 Jul  4 07:30 template.php

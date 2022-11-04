@@ -1,0 +1,9 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp          2150 Jul  4 07:30 msoffice.research.phpt
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 sharepoint
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 soap
+-rw-r--r--   1 ftp      ftp          6558 Jul  4 07:30 webservice.php
+-rw-r--r--   1 ftp      ftp         13614 Jul  4 07:30 webservice.wsdl.phpt
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:30 wsdl
+-rw-r--r--   1 ftp      ftp          5622 Jul  4 07:30 xmlcreator.php

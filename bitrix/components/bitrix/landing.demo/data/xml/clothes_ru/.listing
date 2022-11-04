@@ -1,0 +1,8 @@
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:30 ..
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 catalog_files
+-rw-r--r--   1 ftp      ftp          4554 Jul  4 07:30 catalog_prices_sku.xml
+-rw-r--r--   1 ftp      ftp          5232 Jul  4 07:30 catalog_prices.xml
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 catalog_sku_files
+-rw-r--r--   1 ftp      ftp         43281 Jul  4 07:30 catalog_sku.xml
+-rw-r--r--   1 ftp      ftp        106285 Jul  4 07:30 catalog.xml

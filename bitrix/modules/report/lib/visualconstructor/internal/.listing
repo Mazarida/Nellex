@@ -1,0 +1,14 @@
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x  11 ftp      ftp          4096 Jul  4 07:29 ..
+-rw-r--r--   1 ftp      ftp           896 Jul  4 07:29 configurationsetting.php
+-rw-r--r--   1 ftp      ftp           735 Jul  4 07:29 dashboard.php
+-rw-r--r--   1 ftp      ftp           988 Jul  4 07:29 dashboardrow.php
+-rw-r--r--   1 ftp      ftp           305 Jul  4 07:29 datamanager.php
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 engine
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 error
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:29 manager
+-rw-r--r--   1 ftp      ftp         23223 Jul  4 07:29 model.php
+-rw-r--r--   1 ftp      ftp           967 Jul  4 07:29 reportconfiguration.php
+-rw-r--r--   1 ftp      ftp           955 Jul  4 07:29 report.php
+-rw-r--r--   1 ftp      ftp           968 Jul  4 07:29 widgetconfiguration.php
+-rw-r--r--   1 ftp      ftp          1593 Jul  4 07:29 widget.php

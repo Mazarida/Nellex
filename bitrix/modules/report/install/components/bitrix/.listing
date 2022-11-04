@@ -1,0 +1,16 @@
+drwxr-xr-x  16 ftp      ftp          4096 Jul  4 07:29 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 ..
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 report.construct
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 report.filter.field.selector
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 report.list
+drwxr-xr-x   5 ftp      ftp          4096 Jul  4 07:29 report.view
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 report.visualconstructor.board.base
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 report.visualconstructor.board.controls
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 report.visualconstructor.board.filter
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 report.visualconstructor.board.header
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 report.visualconstructor.config.fields
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 report.visualconstructor.widget.content.groupeddatagrid
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 report.visualconstructor.widget.content.number
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 report.visualconstructor.widget.content.numberblock
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:29 report.visualconstructor.widget.form
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:29 report.visualconstructor.widget.pseudoconfig

@@ -1,0 +1,5 @@
+drwxr-xr-x   2 ftp      ftp          4096 Jul  4 07:31 .
+drwxr-xr-x  13 ftp      ftp          4096 Jul  4 07:31 ..
+-rw-r--r--   1 ftp      ftp            89 Jul  4 07:31 froogle_util.php
+-rw-r--r--   1 ftp      ftp            90 Jul  4 07:31 yandex_detail.php
+-rw-r--r--   1 ftp      ftp            88 Jul  4 07:31 yandex_util.php

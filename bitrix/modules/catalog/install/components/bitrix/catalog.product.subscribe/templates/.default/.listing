@@ -1,0 +1,10 @@
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 .
+drwxr-xr-x   3 ftp      ftp          4096 Jul  4 07:30 ..
+-rw-r--r--   1 ftp      ftp           748 Jul  4 07:30 component_epilog.php
+drwxr-xr-x   4 ftp      ftp          4096 Jul  4 07:30 lang
+-rw-r--r--   1 ftp      ftp         16889 Jul  4 07:30 script.js
+-rw-r--r--   1 ftp      ftp         10970 Jul  4 07:30 script.map.js
+-rw-r--r--   1 ftp      ftp         11447 Jul  4 07:30 script.min.js
+-rw-r--r--   1 ftp      ftp          1816 Jul  4 07:30 style.css
+-rw-r--r--   1 ftp      ftp          1413 Jul  4 07:30 style.min.css
+-rw-r--r--   1 ftp      ftp          3498 Jul  4 07:30 template.php
